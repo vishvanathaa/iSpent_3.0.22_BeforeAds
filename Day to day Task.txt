@@ -1,0 +1,4297 @@
+GitHub
+meetvishwa@gmail.com/Pineapple@132
+
+Nous desktop nibc2937
+
+https://github.com/TryCatchLearn/DatingApp
+
+app store connect
+
+vishvanatha.achary.udupi@gmail.com
+Pineapple@135
+
+iSpent fb
+633628760/Pineapple@134
+
+FB username : meetvishwa@gmail.com/Pass125#
+
+entity login
+entity.nousinfo.com/Pineapple@132
+
+RDC pwd : Pineapple@134
+
+linkedin/Pineapple@132
+macbook pwd: Pineapple@136 										linkedin pwd: Pineapple@123
+PMO office grievance - Pineapple@131
+
+Google cloud lab
+uname : student-00-fc85053defe2@qwiklabs.net
+pwd : XrNomYArVkbc
+proect ID : qwiklabs-gcp-03-f0812822ee88
+
+Xcritical - meetvishwa@gmail.com/Pineapple@123/5903
+Upcapitals
+Skype - meetvishwa@gmail.com/Pineapple@123
+
+Nous PC loagin : Welcome25V*
+128573
+ laptop pwd : Pineapple@138*
+NIBLP1337
+
+Domainracer / meetvishwa@gmail.com/Pass12345#
+
+00020000674 SE LD
+
+git hub login
+username : vishvanathaa
+Pwd: Pass125#
+email : meetvishwa@gmail.com
+Learning
+https://www.compliancewire.com/CW3/Standard/Authentication/LogIn
+vishvanathaa@digitalinfuzion.com
+Pass124#
+DIFZ
+https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel=SuperSimpleDevfl
+https://www.youtube.com/watch?v=o3DukCgvUg0&ab_channel=WsCubeTech
+
+
+Provident fund
+https://unifiedportal-mem.epfindia.gov.in/memberinterface/
+UAN : 100413526994
+epfo password : Pass123#
+
+
+
+https://www.youtube.com/watch?v=_uE-ccDVjnw&list=PL8p2I9GklV44m5tFH-zjCmTiHeq9GZrby&index=3&ab_channel=CodeStepByStep
+https://airwire.nedataa.com
+user name : achary2022 pwd: 420154
+greyt HR NST20216/vishmen#
+
+teams.microsoft.com
+digitalinfuzion\vishvanathaa
+Pineapple@131
+
+Medical insurance
+https://www.prudentplus.in/
+vishvanathaa@nousinfo.com/Pineapple@132
+
+mediclain nous20216@nousinfo.com\Pass12345#
+
+https://ncrmsid.digitalinfuzion.com/NCRMS/Main/Login.aspx
+
+Wifi password : Pass@123
+NIBC2983s
+myniharika@gmail.com/Pass124#
+W2k16-OS5/Pineapple@132
+Nous systme 192.168.16.79
+https://nousinfosolutions.greythr.com/v3/portal/ess/leave/leave-workflow/apply/leave
+https://entity.nousinfo.com/Commonlogin/
+
+mpin for sbi mutual fund 590359
+Learning compliance login : vishvanathaa@digitalinfuzion.com / Pineapple@124
+devki : 8105342873 jya: 9480344997
+Pineapple@125
+https://navodaya.gov.in/nvs/en/Home1
+https://cbseitms.nic.in/RegistrationEditLogin.aspx
+30/11/2020
+https://outlook.office365.com/mail/AAMkADgyYThjYmFmLWZhMzctNDBmZi04NmI0LTQ5ODhhZGRhOGM4ZAAuAAAAAAB21A1WVhaoS7Gqima6JmtYAQD0eJ4AeQh1QIk507M5Ue9mAAClyoccAAA%3D
+
+
+I completed organized folder structure in sharepoint for uploaded document.
+and also worked on some issue fixes in other component screen.
+
+Thats it from my end.
+
+10/12/2020
+
+I checked in the code completed so far with progress indicator.
+Completed the basic validation of document upload screen. I found some error in validation 
+if we use word with For key like documentUploadedFor in name or key.
+
+Working on demo feedback.
+
+i14/12/2020.
+
+I completed implementaion of demo feed back and check in the code
+. Doing the simillar implementation in meeting level upload.
+
+I stuck in one issue in validation need some help from Murali. 
+
+15/12
+
+18/12
+
+I spent time code review rework and multiple call issue.
+its in progress. 
+
+
+
+
+
+
+I worked on merging study and meeting level upload to single code base.
+completed and check-in the code. working on some icon alignment issue.
+
+17/12/
+
+I fixed alignment issue and some other issues found during testing in document upload.
+I check-in the code what ever completed so far. I am looking into multiple call issue.
+
+that is it from my end.
+
+
+18/12
+
+I spent time in code review rework and multiple call issue in document upload. It is in progress
+Thats is it from my end.
+
+12/21
+
+I Completed the DML script for document categories.
+Then worked on multiple network call issue. it is in progress.  Thats is it from my end.
+
+
+12/22
+
+I am working on multiple network call issue during document upload. it is in progress.
+
+12/23
+
+I fixed the mutliple network call issue, after a round of testing i will check-in the code.
+
+01/04/21
+
+I spent some time unit testing upload document. later.
+I configured the CSMT component and looking into style related issues after jquery upgrade. 
+it shows some issue in automplete js file. i updated latest auto complete js file in shared controls,it shows same error.
+I am still working on that.
+
+01/05/21
+
+I made the changes in check-in label.
+Spent time in unit testing document upload and fixed some issues found and did code review.
+
+01/06/2021
+
+I reverted the check-in label to 2.4 from 2.5
+Later i spent time in unit testing document upload. in ie browser one of the functionality not working.
+
+
+01/07/21
+
+I addressed some code review issue and fixed some UI related issue in document upload and check-in the code.
+--Discussed member review coi form with Naveena.
+
+Later spent time in analyzing the requirement of Reviewer and Presenter PBI, 
+I need some technical clarification with Murali.
+
+08/01/21
+
+I added basic ui layout for reviewer and presenter as per mock-up
+Later I spent time in analyzing data model. 
+
+Fumni, latest mockup for reviwer and presenter is not shared rite?
+
+Thats it.
+
+11/01/21
+
+I spent time in creating api and stored procedures for reviewer and presenter module.
+
+
+
+12/01/21
+
+I spent time in creating api and stored procedures for reviewer and presenter module.
+
+13/01/21
+
+I completed the basic functionality of reviewer & presenter. I can give demo on whatever completed.
+I also need some clarification.
+
+14/01/21
+
+I spent time in bug fixing & review feedback implementation in reviewer and presenter module.
+93732
+
+18/01/21
+
+I spent time in implementing validation in reviewer and presenter screen.
+
+22/01
+
+I check-in the reviwer and presenter code. I started looking into review feedback worksheet.
+
+27/01
+
+I spent time in addressing code review issue. Currently working on reveiew feedback items.
+
+28/1
+
+I worked on review feedback, on the item to separate document view and upload.
+Later I gone through SAE tracker add query issue.  I 
+ need to connect with Jaya to understand the issue.
+
+29/1
+
+I fixed one of the bug in SAE tracker. The add query popup shows history records.
+Later i worked on review feedback implementation. It is in progress.
+
+
+02/03/21
+
+Worked on review feedback. addressed some code review issues.
+Apart from that I found one issue in session level document upload which is fixed and check-in the code.
+We took latest code base in Naveena's machine and verified. it is working fine.
+
+04/02
+
+I fixed the bugs mentioned by Fumi yesterday. 
+Implemented an ability to open other component document before upload. I can give a demo.
+
+05/02
+I worked on demo review feedback in other component document. and code review issue fix . thats it
+
+08/2/2021
+I spent some time on watermark issue in SAE tracker. I did not found the solution.
+I will spend more time once alpha related work is over.
+
+Apart from that i found couple of issues in document upload and fixed the issue and check-in the code.
+
+Meeting level upload was not working while drafting the meeting.
+When multiple general agenda items are there, upload icon was not appearing for meeting with for inprogress/completed meeting.
+
+02/09
+
+I am working on editing document attribute. it is in progress. thats all.
+
+02/16
+
+i fixed a bug in reviewer and presenter and worked on editing document attribute
+
+
+18/02
+
+I completed document attribute edit functionality. I can give a demo
+Apart from that i discussed with Naveena regarding email notification.
+
+
+19/2
+
+I worked on document attribute edit based on yesteday's discussion, it is in progress.
+Thats it from my end.
+
+22/2
+
+I completed document attribute edit as per feedback. I am doing some code cleanup.
+
+2/23
+
+I completed document attribute edit & listing meeting level documents.
+Check-in the code completed so far. 
+
+I can give demo of latest implementation. 
+
+
+3/3
+I completed the poc of sending mail with calendar event and then worked code review rework.
+
+
+
+04/03
+
+I worked on code reveiw rework. I can give demo on sending mail  as calendar event
+
+
+05/03
+
+i fixed some issues found after code review rework and workin on COI email template
+
+
+08/08
+
+I worked on COI Form Pending review notification, It is in progress.
+
+I need some clarification .
+
+
+
+10/3
+
+I worked on COI Form Pending review notification, working on dynamic content.
+
+12/03
+
+I completed coding for COI Form Pending review notification. 
+Some DML script, unit testing & Republishing notificaton is pending. I am working on it.
+
+17/03
+
+Yesterday after the call we had a quick discussion with Murali on PBI,
+Today, I spent some time in analyzing data model involved in escalate and deescalate COI Reviewers.
+I will add the task to board.
+
+18/
+
+I spent time in analyzing existing stored procedure to understand workflow.
+I also analyzed data by adding records from application.
+
+Murali, do we need add new procedure for escalate/deescalate or modify coi review save procedure.
+
+escalte button - pending crop directore review
+deescate button - pending crop dericot review. pending dait director review.
+
+22/03
+Escalate COI
+
+23/03
+I spent some time in verifying email notification and document download in integration.
+Which is working fine.
+Then worked on escalate and de-escalate COI review.
+
+I completed escalate review and i can give demo  -- to get early feedback.
+
+
+25/03/2021
+
+I completed the deescalation of COI review.  Working on email notification part.
+
+29/3/2021
+
+I completed the development of escalation & de-escalation of COI review.  Started unit testing
+
+03/30
+
+I completed the unit testing of escalate & deescalate COI Review. I check-in the code.
+I can give demo of latest implementation.
+
+
+04/01
+
+I fixed one of the bug found during the discussion with Simon on document upload
+, later worked on COI workflow change notification. It is in progress.
+I will add task to board.
+
+Tommorrow we have a holiday.
+
+04/05
+
+I am working on email notificaion for workflow status resolved. It is in progress.
+
+07/04/2021
+
+I am working on workflow status change notification as per new template provided by Funmi. 
+I completed constructing mail body, need to work on receipient mail address.
+I need some clarification from Funmi. I will ask in the check-in meeting. Thats it.
+
+08/04
+
+I completed the notification for workflow status resolved and working on Review not required notification.
+
+I can give demo for escalation and deescalation of COI review.
+
+
+09.04
+Yesterday After the call we discussed with Murali regarding build process.
+I am working on Review not required notification. It is in progress.
+
+04/12
+
+I am working on review not required notification. It is in progress.
+
+13 - holiday
+
+04/14
+Monday after the call we had a discussion with Murali on datamodel.
+I completed Review not required notification and checked-in the code. Also worked on some DML script update.
+and started analyzing invitee remove notification.
+
+
+04/16
+
+I worked on COI form submitted notification, it is in progress.
+
+04/19
+
+I completed COI form submitted successfull notification. 
+I am working on updated template for COI form review notification.
+
+
+04/20
+
+I configured 2.5 assemblies in my local system.Later worked on updating template for escalate & de-escalation notification.
+and modified stored procedures
+ & did some code review rework.
+
+
+04/21
+
+I am working on the notification when Reviwer submit the COI form. 
+I completed the code review.
+
+04/23
+
+I fixed one of the bug reported By Deepali in document upload and deployed into integration. 
+Later i spent time in unit testing notifications.  Thats is it from my end.
+
+04/26
+
+I am working on the functionality to capture review comments while escalate & de-escalate.
+
+04/27
+
+I completed the functionality of capturing review comments while escalate & de-escalate,
+and checked in the work done so far.
+I also spent some time in analyzing the reviewer email address fetching logic 
+& setting up from master contact UI.
+
+04/28
+
+I updated the email template as per Funmi email.  
+Modified the stored procedure to consider person email when there is no association email.
+Working on existing save email from shared controls. Currently it is throwing error, need to find out the reason.
+
+
+85193
+PROTREG_AP_SERD_SINGLE_IRB_SUBMISSIONS_GET_NOTIFICATION_TEMPLATE_RECIPIENTS_DS_PRO]
+PROTREG_AP_SERD_CONTACT_MECHANISMS_BY_PERSON_ROLE_SITE_STUDY_FUN
+CRMS_AP_SAVE_NOTIFICATIONS_DS_PRO
+PROTREG_AP_SERD_SUBMISSIONS_GET_NOTIFICATION_RECIPIENTS_DS_FUN
+
+04/28
+After the dsmb check-in meeting I had a discussion with Jaya regarding notification.
+I fixed the issue of saving email via shared controls. After that i spent some time in unit testing notification
+Currently fixing code review issues.  
+Thats is it.
+
+
+05/04
+
+I worked on document upload modification. It is in progress.
+
+05/05
+
+i am working on document upload modification, stored procedure completed i am working on UI.
+
+05/06
+
+I completed document upload modification development and currently doing unit test.
+
+05/07
+
+I completed the unit test of document upload modification and check-in the code. 
+Working on load testing of document upload.
+
+10/5
+
+I completed document upload load test in dev environment, sent a result to Murali.
+Doing some pending code review fix. I can give a demo of document upload modification.
+
+11/05
+
+I fixed the bug in document upload that we discussed yesterday. I need to test different scenario.
+I also fixed another bug in Publish notification where non-members are not considered in receipient email address.
+Fixed and deployed into integration.
+
+Hey Vasu, You made some changes in document list procedure and converted as function, it causes some issues is in edit document. 
+The reason is u r returning one column show documents as zero, can u take a look.
+
+12/05
+
+I completed unit testing of bug fixes in document upload and checked-in the code. 
+I have done with my work and i can take some other task. few code review i need to address.
+I also want to give a quick demo on escalation & deescalation modification.
+
+14/05
+Congrats Deepali,
+
+Since VPN is not working, I completed NIH security training certificate.
+googled a bit on client side search in VueJs.
+thats it from my end.
+
+17/05
+
+I completed the displaying review comments im mail body for escalate & deescalate notification.
+I also implemented client side search in meeting list screen.  
+I can give demo on that.
+
+20/05
+I had a discussion with murali regarding study chair related pbi in the morning
+I completed review feedback of suresh in document upload and checked-in the code.
+Then, I modified the re-publish notification to provide history data based on snapshot.
+I am working on stored procedure to list study chairs. 
+I will add the task.
+Thats it.
+
+21/05
+
+I am doing the study chair related modifications,
+I modified the stored procedures and working on UI.
+
+
+24/05
+
+I completed study chair related modification and working on copying default meeting invitee.
+it is in progress .   Thats it 
+
+25/05
+
+I completed copying default roles in meeting invitees also modified the meeting preview UI.
+.. Currently doing unit testing.
+
+26/05
+
+I spent some time in unit testing of study chair modification
+and looked into export to excel formatting issue.  
+Also spent some time on analyzing notification on removal of agenda which is pending.
+
+I can give demo on study chair and re-publish notification.
+
+Search where we need to implement? 
+
+
+27/05
+
+Completed study chair related modification based on yesterday's demo.
+currently working on notificaton on removal of invitee.
+ 
+28/05
+
+I am working on notification for meeting invitee removal. It is in progress.
+
+01/06 Sprint planning meeting, worked on notification on removal of invitee.
+
+02/06 I worked on review feedback for study chair related changes, 
+and worked on stored pocedure modification for removal of invitee when agenda got removed.
+I will add the task to board. 
+
+03/06
+Morning we had a discussion with Murali regarding person roles. Then,
+I completed and checked-in the code belongs to invitee removal notification.
+Currently Working on stored procedure related to DSMB member Dashboard.
+
+07/06
+
+I am working on dashboard stored procedure and UI.  
+I have some clarification which i will ask during check-in meeting.
+
+08/06
+I am working on the stored procedure belongs to dashboard and the UI. it is in progress.
+
+09/06
+I completed few code reviews and I almost completed the coding of dashboard.
+but I have one more clarification in reviwer dashboard while fetching next scheuled meeting.
+I will ask during during check-in meeting. 
+
+10/09
+
+Yesterday, after the check-in call we had a discussion with Simon & Deepali. As we know, sometime email is failing.
+It will be fixed once I add email to mail alert queue.
+
+Apart from that, I completed the development of dashboard and then spent some time on code review issue fix.
+
+ 
+11/06
+
+I made person role related modification in email notification.
+Later i found there is a function written by Murali which I can re-use. 
+For some reason, it is not returning assiciation email.
+I want to discuss with Murali.
+
+14/06
+
+I checked-in dash-board related code. 
+I made person role related changes in notification did 2/3 round of testing 
+and fixed the issues found. Thats it from my end
+
+15/06
+
+I added e-mail to Queue, deployed the change into integration.
+Did a round of testing in integration, it is working fine. Now we dont get email as soon as action performed. 
+We need to wait 2 to 3 minutes to receive the e-mail from queue.
+
+Apart from that i corrected the issue in export to excel and checked in the code.
+
+16/06
+
+I spent some time in code review. Later implemented client side search in organization screen.  
+modified agenda screen to list the study chairs with bullets as we discussed yesterday. 
+Also spend some time in modifying dashboard stored procedure.
+
+The changes are checked-in. 
+
+Had a discussion regarding dashboard code review issue with Murali. 
+
+https://www.positronx.io/create-awesome-charts-in-vue-js-with-chart-js-and-vue-chartjs/
+https://vue-chartjs.org/guide/#introduction
+https://codepen.io/kasiditp/pen/jwBqBZ
+https://stackoverflow.com/questions/42164818/chart-js-show-labels-on-pie-chart
+
+17/06
+
+I worked on code review feedback in dashboard.
+https://answers.unity.com/questions/802350/add-a-byte-as-attachment-in-a-mail.html
+https://stackoverflow.com/questions/25469751/how-to-send-email-with-html-attachment
+https://forums.asp.net/t/1847887.aspx?how+to+create+a+word+document+with+html+content+using+c+
+https://forums.asp.net/t/2148396.aspx?How+to+send+an+HTML+mail+attachment+File
+
+18/06
+
+I completed code review feedback in dashboard and checked in the code. I gone through the email attachment
+source code in VRCCSM application.  They are taking the visit documents from share point portal and attachig to email.
+The current function only accept share point document.  Thats it from my end.
+
+21/06
+
+https://www.c-sharpcorner.com/article/convert-html-string-to-pdf-via-itextsharp-library-and-downlo/
+
+I created a POC where I could attach a word document created in-memory, 
+i could send mail with attachment.
+
+I also spent some time on bug of coi count in dashboard which funmi mentioned. so far I could not replicate the issue, 
+
+Apart from that, after taking latest codebase i am not able run the application. 
+I need some help from Murali/Jaya to figure out the issue.
+
+
+https://stackoverflow.com/questions/25164257/how-to-convert-html-to-pdf-using-itextsharp
+https://stackoverflow.com/questions/2815761/create-pdf-in-memory-instead-of-physical-file
+https://stackoverflow.com/questions/13580611/how-to-set-width-for-pdfpcell-in-itextsharp
+https://www.c-sharpcorner.com/blogs/create-table-in-pdf-using-c-sharp-and-itextsharp
+https://stackoverflow.com/questions/54556348/itext-7-html-to-pdf-write-to-memorystream-instead-of-file
+https://www.c-sharpcorner.com/article/convert-html-string-to-pdf-via-itextsharp-library-and-downlo/
+https://api.itextpdf.com/pdfHTML/dotnet/2.1.5/classi_text_1_1_html2pdf_1_1_html_converter.html
+https://stackoverflow.com/questions/11897290/how-to-convert-itextpdf-document-to-byte-array
+https://www.codeguru.com/csharp/.net/net_general/generating-a-pdf-document-using-c-.net-and-itext-7.html
+
+https://itextpdf.com/en/products/itext-7/convert-html-css-to-pdf-pdfhtml
+
+https://json2csharp.com/
+
+22/06
+
+Yesterday after the call I connected with Jaya & murali on application configuration issue.
+could resolve the issue with their guidance. Thanks for the help.
+
+I fixed the bug of mismatching COI count in dashboard and checked-in the code.  
+After that I did some R & D to generate sample PDF. I could generate pdf & attach with email.
+
+23/06
+
+Yesterday after the call I had a chat with Thanga & Jayandri regarding pdf file creation.
+Then I addressed some minor language issue in email notification & dashboard. mentioned by Deepali & Fumni
+I checked-in the code. Then had a meeting with Bryan regarding my outlook issue,which is not resolved yet.
+Currently I am working on Formating PDF document simillar to meeting preview.
+
+24/06
+I downloaded the new library iText7 to generate PDF, I could generate the PDF using that.
+Currently working on the business layer to implement the functionality.
+
+25/06
+
+yesterday after the call, i had a discussion with Thanga, he suggested some approach to create pdf.
+I am working on the same.Also had a brief discussion with Murali this morning.
+
+converting unicode character
+
+ https://stackoverflow.com/questions/20783899/html-converted-into-pdf-not-showing-unicode-characters
+
+28/06
+
+I am working on the business layer to generate meeting agenda PDF. 
+
+Also had a discussion with Deepali regarding the bug in agenda removal notification.
+
+I sent an email to Jaya by requesting to add iText7 dll to appArch.
+
+Thats it from my end.
+
+Jaya.
+
+29/06
+
+I have identified the iText7 dlls required to generate pdf and sent the details to Jaya.
+Later worked on business layer to create PDF.
+
+--Also gone through the email notification issues shared by Funmi & 
+
+30/06
+
+I am working on email notification changes mentioned by Funmi. 
+It is in progress.
+
+01/07
+
+Morning, 
+I had a meeting with Jaya to verify the functionality of iText7 library in integration
+But we stuck in deployment related issues.
+
+
+I completed notification related changes and checked-in the code. Also deployed to integration.
+
+02/07/2021
+
+Yesterday after the call, i had a meeting with Jaya & Murali to discuss about some deployment issue.
+We could figure out the issues and now email attachment is working fine in Integration.
+
+Then I worked on pending items in e-mail attachment. I will add the task to board.
+
+Thats it.
+
+06-07-2021
+
+I completed the email attachement related tasks, I can give demo during check-in 
+
+07/07/2021
+
+Paging
+https://www.aspforums.net/Threads/545600/Display-page-numbers-on-pages-using-CSS-and-print-in-JavaScript/
+http://jsfiddle.net/okohll/QnFKZ/
+
+I checked-in the e-mail attachment related codes.
+I could display the link in the attachment as mentioned by Kristin.
+Worked on displaying study chairs in COI submit screen.
+
+Set XMP metadata
+http://blog.icodejava.com/1786/using-itext-to-embed-xmp-metadata-into-a-pdf-and-to-retrieve-xmp-metadata-from-the-pdf/
+
+08/07/2021
+
+I created the DML script to add domain value lists simillar to DAIT PM in document upload.
+Deployed the change into integration and did a round of testing.
+
+Later I did a R & D in adding page number, but i did not make any progress.  
+I need to check with Jaya. Winnovative licensed.
+
+https://stackoverflow.com/questions/50953485/adding-headers-footers-and-page-numbers-to-html-page-converted-to-pdf-itext-7
+
+
+
+09/07/2021
+Paging
+https://stackoverflow.com/questions/38588704/how-to-add-a-page-x-of-y-footer-in-itext-7
+
+example from iText7
+https://kb.itextpdf.com/home/it7kb/examples/pdfhtml-header-and-footer-examples
+
+09/07/2021
+Yesterday after the call I connected with Jaya to discuss about page number issue.
+I worked on the solution based on discussion. Now i can display page number in PDF.
+I need to find out some solution for UI.
+
+12/07/2021
+
+I discussed the deployment related issues with Anitha, 
+One DML script is not considered during deployment. After DML script update.
+Email attachment is working fine in STD.
+
+We also tested latest code base in Naveena's machine, 
+ found that the email-attachment is working but fails in certain scenarios. 
+
+1 is during re-publish meeting
+another one is when protocol does not have any chairs. 
+
+I have fixed the issues, it would be part of next build.
+
+
+I sent out email to simon & deepali regarding the changes made by me in the last build.
+Currently, I am working on the print preview paging issue. I will connect with Murali to discuss the issue.
+
+07/13
+
+I fixed the bugs found in e-mail attachment & added page number in attached PDF.
+Added DML script for document category. in document upload screen.
+
+Implemented the search on hitting ENTER key on search box 
+whatever we discussed with Simon yesterday.
+
+These changes are checked-in.
+
+07/14
+
+I fixed the issues of de-escalation notification mentioned by Simon;
+Earlier, It was considering only the person level email address.
+ & I Fixed checked-in the code.
+Also spent some time in code review rework.
+I need to connect with Murali regarding print preview paging issue.
+
+07/15
+
+I made the changes in email notification template as per the email sent by Funmi.
+Fixed the cancel notification issue mentioned by Deepali.
+Updated DML script to change the document category order.
+Fixed the issues found in protocol search.
+All these changes are checked-in and it will be part of todays build.
+
+07/16
+
+Yesterday after the call I discussed with Murali regarding print preview page number issue.,
+Spent some time with Naveena on technical issues he is facing.
+
+Regarding notification templates are not updated in STD
+I found that latest dml script not deployed,
+ I requested Anitha to deploy the same, she did it in the morning.
+
+Regarding Document download issue in VAL. I found that the recent code change is not working in IE11.
+I think the modification we made for data access implementation is causing this issue.  
+If we revert the change it works for ie,chrome as well as firefox.
+
+if we revert, it may have some impact on data access.
+I think Vasu has to take a look at his code by reverting download link..
+
+19/07
+
+Code review, paranthesis issue in
+assisted Naveena.
+
+20/07
+
+I verified the document upload exception by setting in-correct sharepoint url.
+Already code in place where i was throwing exception to user if sharepoint upload is not success.
+--First, i am uploading document to sharepoint, if it is success, only then adding record to local table.
+No Idea, how it went through in VAL. 
+May be, it was uploaded before build and downloaded after build.
+
+Later I made some minor changes in mail attachment. Removed page word from page number as mentioned by Jaya. 
+removed orgnaization displayed with role from meeting attachment. Addressed some code review fix.
+
+Also I Fixed Scrolling issue in Meeting Invitee screen which I need to review with Murali whether it is ok.
+
+21/07
+
+After the call, I connected with Simon, Deepali & Funmi to discuss notification related issues.
+
+Then, I removed restriction type field from document upload as mentioned by Murali and codes are checked-in.
+The test cases may need to be updated accordingly.
+
+Then I created a stored procedure for associate add-hoc member protocol For Naveena.
+
+Apart from that, I need some information from Murali to fix one issue. We will connect after the call.
+
+23/07
+
+yarn add chart.js@2
+map data to chart.
+
+https://stackoverflow.com/questions/53938177/vuejs-with-chartjs-populate-from-api
+pierce label
+https://codepen.io/kasiditp/pen/jwBqBZ
+https://stackoverflow.com/questions/42164818/chart-js-show-labels-on-pie-chart
+
+https://www.chartjs.org/docs/latest/configuration/legend.html
+I spent some time in analyzing the scrolling issue in Add invitee screen.
+it is the third party library, i found it will not working properly when we use in pop up.
+The scroll works after we hit down arrow key.
+It looks tricky to me to fix. May be Murali is having better understanding on this.
+
+Also spent some time in code review and analyzing dashboard performance.
+
+26/07
+
+I had some free time, so i added pie chart to dashboard. I can give quick demo.
+
+27/07
+
+After the call i connected with Deepali regarding duplicate document list.
+she assisted me in re-producing the issue in development environment, thanks deepali.
+I fixed the issue and checked-in the code.
+
+Currently working on the task assigned by Murali. Thats it.
+
+28/07
+
+I completed the task of adding last published on date. I can give a demo.
+And completed coding of notification related modification as per Funmi's email. I need some time for testing.
+I found that the duplicate document issue which i fixed is not working in STD. I think Vasu is having better Idea.
+
+29/07
+I fixed the bug in No Conflict notification template as mentioned by Funmi.
+
+Completed the adding cc & greetings
+ in review completed notificatons and checked-in the code.
+
+As per the discussion with Simon, Deepali & Murali. 
+I displayed pending COI Submission/Review for In-Progress meeting in the dashboard. 
+
+All codes are checked-in it will be part of today's build.
+
+30/07
+
+I spent time in analyzing the notification related enhancement and sent email.
+
+Funmi/Kristin, I need one clarification.
+
+When member initally submits the coi form. do we need send email only medical monitor or both.
+
+02/08
+
+I worked on enhancement in notification as per Kristin's email.
+Morning we had a discussion with Jaya regarding his latest thought. 
+I am going work on it tomorrow.
+
+04/08
+leave
+05/08
+leave
+
+06/08
+
+I found one bug in dashboard when there is a de-escalation from CROP direcotor. 
+The COI record was not listing in Medical monitor dashboard after de-escalation.
+I fixed the bug and checked-in the code. it will be part of today's build.
+There are some pending code review item which I need to discuss with Murali.
+
+09/08/
+
+I made the code review & MO access related changes mentioned by murali in Dashboard and 
+also modified warning message stored procedure.
+And checked-in the code. Later I spent some time in testing the application.
+
+10/08
+
+I corrected the review completed notification template as per Funmis email and checked-in DML script,
+ it will be part of today's build.
+Later verified all pop-ups for session expiry. It is working fine.
+
+12/08
+
+I fixed the bug in the dashboard where Branch chief is not seeing MM reviewed COI.
+Codes are checked-in and it will be part of today's build.
+Later i spent some time in reviewing SDD. thats it .
+
+13/08
+
+I tested the dashboard related changes in development & STD. It looks fine.
+Later I reviewed SDD document. I found one section is repeating.
+
+16/08
+
+I fixed one of the bug in Manage meeting roles as per Murali's email/ The in-correct COI status, 
+i need to check-in the code.
+Later I spent time in testing the application in STD.
+
+I have a question. Can we add protocol after the meeting is started?
+
+17/08
+
+I spent time in testing the application.
+
+18/08
+
+I configured RM and Document Viewer application in my local machine.
+Today Morning I had a discussion with Jaya on the requirement.
+we may need to create asp.net core website to integrate new version of Accusoft. 
+It looks complex and i need to learn.
+Apart from that I need to discuss with Jaya after the call,if he is free.
+
+dotnet.mcrosoft.com/download
+
+19/08
+
+I identified few procedures/functions which may impact on long form implementation as Murali requested.
+Later worked on Document viewer, I stuck with some issues i need to discuss with Jaya after the call.
+
+20/08
+
+yesrday After the call I connected with JAya and 
+discussed the approach on Document Viewer.
+ 
+I created the aspnet core web site and used accusoft sample app, 
+it is working fine.
+We need to think on how to integrate our code now.
+
+23/08
+
+I am working on document viewer, It is in progress.
+
+
+for publish email, we have are taking Meeting_Parties.  just check insert email address to temp table.
+DSMB_DAIT_AP_EMAIL_GETNOTIFICATIONTEMPLATE_DS_PRO
+
+For COI Related we have email logic here.
+[DSMB].[DSMB_DAIT_AP_GET_COI_REVIEWERS_FUN]
+
+24/08
+
+I spent some time with Naveena to implement invitee email address warning.
+Later worked on document viewer. Integrated source code of sharpServiceProxy,
+but end up with some issues. I need some assistance from Jaya.
+
+25/08
+
+I fixed the bug, Peron level email address is not considering in invitee screen.It is the stored procedure change.
+Shall I check-in the code?
+Apart from that I need to discuss with Jaya on document viewer.
+
+26/08
+
+Today morning I discussed with Jaya regarding document viewer issues. 
+and I spent time to rectify the issues but did not get proper solutions. We may need to connect with Thanga.
+
+27/08
+
+I worked on document viewer, installed the accusoft prizm docview installer and going through their documents.
+
+30/08 holiday
+
+31/08  I installed prizm doc viewer which provides different sample codes 
+and I am reading their documents. thats all.
+
+
+02/09
+
+I installed prizm doc viewer of accusoft and going through their document.
+I could create one web form sample with prizm cloud.
+
+03/08
+
+As we discussed yesterday, I read the accusoft documentation and sent email with my findings to Jaya.
+
+09/07
+
+I implemented duplicate agenda valiation for general agenda items.
+I need to discuss with Simon to implement for protocal agenda items validation, 
+Thats it from my end.
+
+09/08
+
+I completed the duplicate agenda validation and need to confirm with Simon.
+
+Apart from that I would like to discuss on duplicate document upload in protocol level. 
+if murali is not available we can discuss tomorrow.
+
+Thats it.
+
+09/09
+Yesterday after the call i had a discussion with Jaya regarding document viewer.
+Also discussed with Simon regarding validation.
+Then I worked some time on document viewer and validation. 
+ I can give a demo on validation & also need some clarification.
+
+13/09.
+
+As Murali suggested, I am working on the agenda duplicate validation to provide as part of validation 
+framework instead of alert box. It is working fine in add mode, but not firing in the edit mode.
+I am still looking into the issue. 
+
+14/09
+
+I completed duplicate agenda validation using validation framework. 
+I can give demo and also need some clarification from Kristin & Funmi. Thats it.
+
+15/09
+
+I checked-in the codes related to duplicate agenda validatation,
+Then I worked on document viewer. I will connect with Jaya to show the progress.
+
+16/09
+
+Document refresh issue.
+17/O9
+
+The bug says "list of uploaded documents for a protocol agenda item is not up to date when user uploads documents.
+ has been fixed. 
+
+Then
+I started analysing the requirement of protocol information update, 
+I need some clarification from Murali.
+
+20/09
+I spent time in analyzing the requirement of protocol information update, 
+I need some clarification from Murali.
+
+21/09
+
+Yesterday after the call I and Murali had a techincal discussion on protocol information update.
+Later i spent time in analyzing the requirement.
+We need some more clarification from Kristin & Funmi. 
+
+22/09
+
+I am working on protocol information upodate PBI, today I worked on UI part.
+
+23/09
+I worked on protocol information upate PBI and email notification change for multiday meetings.
+I made the changes to publish notification, sent email to Funmi & Kristin for confirmation.
+
+24/09
+
+I am working on Mutli day meeting related changes in notifications. 
+I completed publish & republish notifications and deployed into integration. Sent an email on the same.
+
+27.
+I worked on multi-day meeting related changes in notifications. 
+I deployed the completed item to integration and sent email to Dipali and Simon with the details 
+Currently Workig on email attachment.
+
+28/09
+I completed Email attachment modification for multi-day meetings.
+Deployed into integration and sent mail to Depali and Simon.
+Codes are checked-in. I will be working on protocol information update.
+
+30/09
+
+I Fixed the document download corruption issue when we edit display name
+ & deployed into integration, Codes are checked-in. I think Deepali already verified in integration.
+Working on protcol information update UI & validation.
+
+01/10/2021
+I modified email attachment to add agenda header based on domain values and checked-in the code.
+Configured PM application & had a discussion with Jaya regarding PM report issue.
+He said that the issue is with the job which imports the data. I need to analyze the job.
+
+04/10/2021
+
+I fixed the PM report issue and deployed into integration.
+Currently working on duplicate meeting date validation.
+
+05/10/2021.
+
+I completed duplicate meeting validation and checked-in the code.
+I spent some time in code review.
+Working on protcol information update UI. Thats it from my end.
+
+06/10/2021
+
+I completed the duplicate meeting validation review rework and deployed into integration.
+sent e-mail to simon & depali on the same. Codes are checked-in
+Currently Working on protcol information update UI validation. Thats it from my end.
+
+07/10/2021.
+
+Today morning i connected with jaya regarding email notification & then worked a bit on meeting date validation.
+and protocol information update screen validation.
+
+Murali u completed duplicate meeting validation.
+
+Regarding meeting date validation i need some clarification. 
+I will ask during check-in meeting. 2.12.0
+
+08/10/2021
+
+I am working on protocol information update UI and validation.
+http://jsfiddle.net/ZXebv/3/
+https://www.vuescript.com/autocomplete-autosuggestion-component-vue-js/
+https://www.npmjs.com/package/vue-suggestion
+
+12/10
+
+I completed the UI and validation for protocol information update.
+I can give a demo of whatever completed and also have some clarification.
+
+Organization dropdown is correct.
+Do we need change reason for delete?
+Refresh & Edit only for program specialist?
+Can I add column and impement saving?
+Scroll bar issue with Murali.
+
+
+13/10
+
+I am working on data access layer and stored procedures for protocol information update.
+It is in progress.  
+
+14/10
+
+I worked on save & retrive from database and few validations in protocol information update.
+Working on Some pending task still in progress.
+
+18/10
+
+I completed some database saving task in protocol information update.
+I need some clarification regarding change reason for delete functionality from Murali.
+
+20/10
+
+I completed changing the upload icon style and showing the in-progress meeting in the dashboard.
+I can give a demo.
+
+21/10
+
+I added progress bar in dashboard as per Murali's suggestion, i can give a demo.
+Later I worked on adding change reason in protocol information update.
+
+22/10
+
+yesterday after the call I addressed the review comment by Murali 
+and checked-in the code related to dashboard change.
+
+Then I started working on protocol information update. 
+I also added an issue in githbub regarding scroll bar not working in the lookup.
+hope we get some response.
+
+
+25/10
+
+I worked on protocol information update to save change reaon..It is in progress.
+Thats it from my end.
+
+26/10
+
+I completed saving the change reason in protocol information update. Also
+fixed the bug, the document upload showing the document list in edit mode.
+
+27/10
+
+I created the script to update meeting to in-progress and sent email to Jaya & Murali for review.
+Also checked-in the code related to bug fix in documents listing in edit mode.
+Started working on scroll bar issue.  Thats it.
+
+28/10
+
+I corrected the styling in dashboard where meeting in progress indicator cutting the text while we zoom-in
+as Funmi mentioned yesterday. Codes are checked-in.
+Apart from that.
+To fix the scroll bar issue I took source code of third party library and created new component and customized a bit.
+I can give demo on the same.
+
+11/04
+
+I fixed the issues related to long form COI reported by Simon and deployed into integration. Codes are checked-in it will be 
+part of today's build  
+I also analyzed the issue reported by Deepali which is working in development.
+But in integration it is not working. I sent my findings to Murali.
+
+11/08
+
+I analyzed the impact of long form COI in protocol information update & also completed some pending work.
+Due to long form COI change,
+ protocol information is not listing when meeting is in draft mode.
+I discussed the same with Murali  this morning. he said he will look into it.  
+
+11/09
+
+Worked on unit test script for Long form COI as per Kristin email.
+which is almost completed. I will upload to portal soon.
+
+11/10
+
+I made the changes to unit test scipt as per Murali's review comment,
+Later worked on protocol information update, i need to apply my changes on top of long form coi implementation.
+Thats it from my end.
+
+11/11
+Worked on protocol information update.
+
+12/11
+I almost completed protocol information update pbi.
+To update the protocol information for long form COI we may need to change data model.
+I need some clarification from Murali. Murali, In study details table  the newly created,
+ we are having dbsid which is nullable.
+we may need to add dmgid into it, let me know your thoughts.
+
+15/11
+
+I was working on scroll bar issue in protocol information update.,  
+I am waiting for clarification regarding data model. 
+
+Sorry. I missed email from Kristin and i have not yet updated FRS ID in unit test script.
+Now only I noticed outlook is not working.
+
+
+https://www.w3schools.com/howto/howto_js_autocomplete.asp
+https://stackoverflow.com/questions/34621987/check-if-clicked-element-is-descendant-of-parent-otherwise-remove-parent-elemen
+
+16/11
+
+Morning we had vpn connection issue. Later I was trying to resolve scroll bar issue.
+Simon protocol information update is not rea
+
+18/11
+
+I analyzed the requirement of meeting-in progress workflow and sent email with some clarifications.
+I did not find the PBI related to this task in the board.
+
+19/11
+
+I worked on analyzing the approach to implement meeting-in progress workflow. 
+I have seen Jaya's reply and have few more clarifications on the same.
+
+22/11
+I spent time in analyzing the logic of adding attendance log and meeting invitees.
+As per Funmi's email we may need to hold off on in-proress workflow,
+ wanted to know the next task in this pbi.
+
+23/11
+
+I spent some time in configuring the new version of apparch assembly. 
+But I stuck in some connection string issue.
+I need some help from Jaya.
+
+Apart from that I spent some time analyzing the logic to add attendence log and invitee for in-progress meeting.
+I also checked another bug is assigned to me, i will go through it, will ask if i have any questions.
+
+24/11
+
+Yesterday after the call I discussed the, meeting in-progress issues with Marali,
+based on that i am analyzing the issues & possible solution.
+
+Just to confirm
+The COI required/not decided based on the CSS ID and party_study confict table gets updated when we
+SAVE meeting invitees during.  The CSS ID gets overwritting to pending submission/coi not required. 
+I reverted back the study conflict table back to previous state still the review dashboard is not loading, 
+i am analyzing further to know exact reason.
+
+26/11/2021
+
+I analyzed meeting in-progress workflow and noted down some points.
+I will send e-mail with the details. Will start implementing after discussion.
+
+29/11/2021
+
+I completed my analysis on meeting in-progress workflow, put my thoughts and sent email to team.
+After we finalized the approach i can start implementation.
+
+30/11/2021
+
+I have gone through the email sent by Jaya on meeting in-progress workflow
+ and mentioned few points for discussion.
+I need to discuss further on implementation approach.
+
+1/12
+
+I started implementing meeting in-progress workflow.
+
+02/12
+
+Yesterday after the call i had connected with Jaya & Murali on some configuration issue.
+It has been resolved. Thanks Jaya. 
+Today I am workig on stored procedures to add invitee during meeting in-progress.
+I will add the task to board.
+
+03/12
+
+I completed the read only UI validation in invitee screen for the meeting in-progress
+and working on stored procedure to save invitee.
+
+06/12
+
+I almost completed meeting in-progress workflow, tomorrow i can give a demo.
+
+07/12
+
+I completed the meeting in-progress workflow, I can give a demo.
+I tested republish meeting as per funmis email, I could not re-produce the issue
+I wanted to understand more about the issue.
+
+08/12
+
+I checked-in the code related to meeting in-progress workflow and 
+then spent some time on analyzing the meeting re-publish issue.
+
+I think, to retain the previously published COI form, we may have to restrict 
+modifying the COI flag if it is already filled by a member during re-publish.
+ I think this is the only way we can tackle this issue. Otherwise it will overwrite.
+
+09/12
+
+Yesterday after the call, I had a code review session with Jaya & Murali,
+I refactored the code as per their feedback and checked-in the code today.
+Currently I am working on the republish issue.
+
+10/12
+
+I verified F12 & response header issue in CSM tracker. 
+and also spent some time with Naveena to fix the RM issues.
+
+13/12
+
+I verified f12/response header issue in CSM tracker. 
+I did not find any issues.
+
+and then I worked on republishig issue.
+
+14/12
+
+I fixed the issue of previously submitted
+COI data wiped off during republishing the meeting 
+and codes are checked-in as part of 2.6 version.
+Currently, I am analyzing the duplicate documents issue during re-publish.
+
+15/12
+
+I fixed the duplicate documents issue during re-publish,
+But I need to verify the fix with Jaya and Murali.
+
+16/12
+Yesterday after the scrum call, i had a code review session with Jaya & Murali,
+I made some changes as per their feedback and checked-in the code.
+
+17/12
+I checked in the code related to repupblish issue after code review fix.
+Then worked on the bug where meeting roles pop up shows previously submitted COI statuses.
+
+20/12
+
+I am gathering the information to create COI report 
+and also spent some time with Naveena on Email Editor.
+
+Apart from that
+As simon requested I can give a demo on republish issue after this call.
+
+21/12
+
+Yesterday after the call I connected with Simon & Deepali to give demo on bug fixes.
+
+Today, I worked with Naveena on Email Editor.
+I also created a sample COI report which i can give a demo.
+
+22/12
+
+I worked with Naveena on email editor, 
+later spent some time on COI report stored procedure.
+
+23/12
+I created the Unit test script based on kristin's email 
+and later worked on COI report stored procedure.
+I have a couple of question in coi report requirement.
+
+27/12
+I working on the COI report based on the new requirement provided by Funmi.
+
+27/12
+
+I removed the code to turn off coi submit sucessfull notification and checked-in the code.
+
+And then Spent some time in analyzing the attendance log not working during conduct mode
+ for newly added protocol whatever we discussed yesterday.
+
+Currently, if we allow to add protocol during conduct mode, 
+the validation message fires which does not allow them to edit after adding.
+
+I made some changes in the logic to allow them during conduct mode.
+I can check-in after we get the confirmation on whether we allow to add protocol in conduct mode.
+
+Spent some time on COI report
+
+29/12
+
+I fixed attendance log issue during conduct mode and also worked on COI Report.
+android release
+https://www.youtube.com/watch?v=S4wIQKGqHq0&ab_channel=Phul4u
+
+01/03/2022
+
+I completed the development of COI report and doing the unit testing.
+Also spent some time with Naveena on Email editor.
+
+01/04/2022
+
+As discussed yesterday, I disabled the add protocol button and fixed the validation issues
+for in-progress meeting and checked-in the code.  
+Later spent time on unit testing of COI report.
+
+06/01/2022
+
+I worked on meeting in-progress to restrict based on COI submission status.
+Also found one bug in yesterdays check-in which i fixed today.
+I can give a demo on COI report.
+
+07/01/2022
+
+I completed the meeting-in progress modification to 
+restrict invitee based on COI submission status and to disable general agenda item button 
+The codes are checked-in.
+Started working on demo feedback on COI report.
+
+10/01/2022
+
+I checked-in the initial version of the COI report and
+I addressed few code review items & currently working on demo feedback.
+
+I need some clarification from Jaya/Murali regarding role based access.
+Do we need to data access when user access as PS.
+
+11/01/2022
+
+Today morning I connected with Jaya and he explained me the requirement in reviewer dashboard change.
+I analyzed the existing functionality 
+
+Apart from that I addressed some code review items in COI reports & worked on demo feed back.
+
+12/01/2022
+I worked on demo feed back in the COI Report almost got over.
+I made some progress in reviewer dashboard change but stuck in one scenario, 
+need some guidance from Jaya/Murali.
+
+13/01/2022
+I completed demo feedback in COI Report and checked-in the code.
+Fixed the invitee Save issue which Simon shown yesterday.
+Apart from that I gone through reviewer dashboard CR and need some clarifications.
+
+17/08
+Worked on COI dashboard.
+
+18/08
+Worked on COI dashboard.
+
+19/01
+
+I fixed one bug found in meeting invitee save.
+and I completed the initial work of reviewer dashboard, I can give a demo.
+
+20/01
+I tested the meeting in progress issue in dev environment.
+But I could not re-produce the issue, I need some help from simon/Deepali.
+I could add the no result found message what Dipali provided 
+in the meeting dates control.
+--I addressed some of the Suresh's feedback in the report.
+Apart from that i worked on demo feedback in reviewer dashboard.
+
+21/01
+Reviewer dashboard Update.
+
+24/01
+I deployed the latest changes to integration & did a round of testing, everything looking fine for me.
+Fixed the bug in PS dashboard.
+Added Review material & vote in COI report.
+Did some code clean up and checked-in
+
+31/01/
+
+I implemented 
+-multi-select dropdown for invitee & 
+-corrected the control height.
+-Set the COI report page orientation to Landscape so it print neatly.
+-Addressed some code review issues is COI dashboard.
+
+Codes are ready to check-in.
+Thats it from my end.
+
+01/02
+Worked on input parameter.
+Sprint planning meeting.
+Bugs in meeting in-progress.
+
+02/02
+I worked on input parameter in COI report and it is in progress.
+Applied SVG icon provided by Funmi in COI dashbaord --and I can give a demo.
+
+03/02
+Today morning, I connected with Jaya to discuss some technical stuff.
+Later I checked-in SVG icon implementation in Reviewer dashboard.
+ 
+and Updated email templates and checked-in the code.
+Completed input parameter & corrected some print issue in COI report and checked-in.
+Uploaded the script to correct SSO URL.
+
+Tomorrow, I am going to look at code review items & input parameter refresh issue.
+
+07/02
+
+I made the changes in column header format 
+and a correction in footer as suggested by Deepali in COI report.
+I deployed the changes into integration and codes are checked-in.
+
+I prepared the content for SDD document, 
+for some reason i could not update in the original document.
+
+I need to discuss one of the code review items with Murali address it tomorrow.
+
+08/02
+Yesterday after the call i discussed with Murali on one of the code review item
+and decided not to address in this release.
+Today I worked on COI dashboard icons as per Funmi's email and checked-in the code.
+Made some URL update in email notification template.
+Working on label change for review materials & vote, 
+
+i need some test for unit testing.
+
+09/02/2022
+I made the changes in notification template as per Funmi's email,
+and Updated SDD as well.
+
+Tomorrow I am planning to do unit testing & SDD document updation.
+also try to fix the refresh issue which simon reported.
+
+10/02
+Unit testing and fixing the bugs reported by testing team.
+
+11/02
+I spent some time on unit testing;
+also spent some time on verifying section 508 using Wave extension, I think better we use sortsite tool.
+
+14/02
+I could fix the bug reported by simon about screen refreshing in coi report.
+Later I spent time in verifying section 508.
+Murali has already fixed most of the bugs. 
+For rest of the bugs tool is not giving proper guidance.
+I think better we use Sort site tool.
+
+15/02
+I deployed the bug fix in COI report to Integration as requested by simon.
+Later I took Email Editor source code from Naveena and going through the code.
+I will continue work on this.
+
+16/02 Worked on email editor integrated the source code
+
+17/02
+I worked on email editor, 
+there are some issues in receipient section which i fixed today.
+I will continue working on the same. 
+
+18/02
+I implemented review completed by me tab in COI dashboard, I can give a demo.
+Later I spent some time with Naveena since he stuck with some issues.
+
+21/01
+Worked on Reviewed By Me tab.
+
+22/01
+I completed review completed by me tab, 
+I also tested the bug pending task mismatch and noticed it is happening when CROP director de-esalates. 
+and I fixed the issue.  I need confirm with Deepali whether the issue exist even we do not de-escalate.
+
+23/02
+I deployed my latest changes to integration including Review Completed By Me tab in
+ COI dashboard.
+Apart from that I could not replicate the issue of multiple links for same meeting.
+we may need std database acceess to analyze further.
+
+24/02
+Today Morning I connected with Jaya, he provided the solution for multi link issue based on his analyis in STD database, 
+I applied the fix and deployed into integration. Thanks Jaya
+Later I spent some time with Naveena since he stuck with some issues.
+Then I Continue working on email notification editor.
+
+25/02
+
+I worked on email notification editor and having couple of issues which i am checking with Jayendri.
+I can show you the issues if needed.
+
+https://stackoverflow.com/questions/49329829/vue-trimming-white-spaces
+
+03/02
+
+Notification editor, sprint planning.
+
+03/03
+I worked on re-publish notification editor it is in progress.
+I will add the tasks to board. Thats it from my end
+
+04/03
+Worked on republish notification editor. 
+the core functionality is completed.
+but there are some issues which I am working on.
+I also spent some time with Naveena since he had stuck with some issues.
+
+The editor works for basic html elements 
+not for complex elements like table and all.
+
+Not working for table
+https://codesandbox.io/s/vue2editor-wrapped-example-forked-4xdob?fontsize=14&hidenavigation=1&theme=dark&file=/src/App.vue
+
+07/03
+I worked on re-publish notification editor it is in progress.
+
+08/03
+
+I spent time in unit testing email notification editor, it is in progress.
+
+09/03
+
+I spent time in unit testing email notification editor, it is in progress.
+I think tomorrow I can give a demo.
+
+10/03
+
+I spent time in unit testing notification editor. I can give a demo.
+
+11/03
+I am working on demo feedback of notification editor, it is in progress.
+
+15/03
+https://www.digitalocean.com/community/tutorials/vuejs-vue-autocomplete-component
+https://github.com/mattzollinhofer/vue-typeahead-bootstrap
+
+I am working demo feedfeedback in notification editor it is in progress.
+
+17/03
+
+I completed the demo feedback in email notification editor and deployed into integration.
+i can give a demo.
+
+18/03
+
+I implemented the logic to retain the newly added email in the previous version
+during republish meeting.
+
+21/03
+
+I implemented the logic to retain the newly added email in the previous version
+during republish meeting, I can give a demo. doing the code clean up for check-in
+
+22/03
+
+I did a code clean up and checked-in the code and I am analyzing the bug reported by deepali.
+
+23/03
+https://google.github.io/charts/flutter/example/bar_charts/horizontal_bar_label.html
+
+24/03
+
+I am working on the new requirement discussed on email notification editor during demo.
+As I said yesterday the data model change is not required. Please ignore that mail.
+
+Apart from that, I am planning to take one week off. From monday.  
+I have some land related issues at my home.
+
+25/03
+
+I took a latest version of code base and verified the code merge.
+Completed the coding of new requirement in notification editor & currently doing the unit testing.
+
+04/04
+
+Completed the unit testing & addressed the code review items in notification editor.
+
+04/05
+
+I worked on code review items & unit testing on notification editor.
+As Deepali mentioned, I found an issue while opening an editor it self. 
+I resolved that issue and deployed into integration
+but still issue is there while saving as murali mentioned.
+
+I can give a demo on new changes.
+
+04/06
+
+I completed the code review items in notification editor and checked-in the code
+& then I spent time in analyzing the approach to save email as PDF in sharepoint.
+I need some clarification on data model.
+
+07/04
+
+I spent time in analyzig the VRC CSM codebase.
+I could not set up the application and I will check with Jaya.
+They upgraded the assembly version.
+
+08/04
+
+I spent time in analyzing the VRC CSM Codebase.
+I could set up the application and need one small help from Jaya.
+I can share my screen.
+
+12/04
+
+I almost done with my analysis on VRC CSM Code base.
+Not very clear with reuse of data model for downloading email with attachment.
+if we have time
+I can explain whatever i understood so far.
+
+13/04
+In email notification editor,
+the previous notification details are taken from service notification instead of alert mail queue.
+Added Next button as suggested by Suresh.
+Apart from that to download email with attachment. 
+We need to discuss the implementation approach. I can explain whatever i understood so far.
+
+14/04
+In email notification editor,
+the previous notification details are taken from service notification table instead of alert mail queue.
+Added Next button as suggested by Suresh.
+and I am working on downloading email with attachment. 
+
+If we embed as attachment we cannot open it in browser that is fine right?
+I can share my screen and show.
+
+19/04
+I fixed the bug and some feedback points in email notification editor and checked-in the code.
+And completed the upload part in save email PDF, need to work on UI for download.
+
+21/04
+
+I completed download email as PDF and I can give a demo.
+I will add the task to board.
+
+CR# 109415 v2.6.1
+
+22/04/2022
+
+I completed the upload date correction as Murali mentioned and checked-in the code.
+Currently working on resend notification.
+
+25/04
+I am working on resend notification, It is in progress.
+
+26/04
+
+I fixed the bug in main dashboard not displaying scheduled meeting in progress for multiday meeting 
+as per Funmi's email. Deployed the change into integration.
+It is just a minor fix.  Let me know whether i need to check-in as part of 2.6.1
+
+Later Worked on cloning previous version emails to revised meeting & other review feedback.
+
+27/04
+
+I fixed the bug related to multi day meeting & deployed into integration.
+Completed cloning of emails to revised meeting & saving the cancel meeting.
+Working on redesigning recipient section simillar to VRC CSM.
+
+28/04
+I redesigned the recipient screen simillar to VRC CSM.
+Apart from that I had a discussion with Simon regarding mutli day meeting issue.
+The fix i gave does not looks stable and for some dsmb next sheduled meeting is not displaying.
+I am analyzing the reason.
+
+Hi All, I am reusing EmailMessage.GeneratePDFAndUploadToSharePoint() function of shared controls to save email as PDF in DSMB. 
+But I noticed that the hyperlink(a) and bullets (li) is not rendering properly in PDF and BCC is not listing. 
+It is working fine if I write custom function using iText7 library. 
+Is there any plan to upgrade shared controls to iText7 for 2.7 release? Which and all components using this function?
+
+29/04
+I fixed the multi day meeting issue in DSMB & protocol screen and deployed into integration. 
+I will also test more scenario,
+I posted shared controls related issues in technical group in teams, thanga replied with some query, i will reply him.
+Worked on some UI correction & bugs in recipient screen.
+
+108909 - email editor
+
+04/05/2022
+
+I checked in the code releated to multi-day meeting issue and email editor
+Spent time on analyzing the approach for download all documents.
+I have couple of questions.
+
+We need to download all the documents for the selected meeting right.
+Can we have this button in the document tab.
+Murali, Can we reuse the function written by Vasu for document access?
+
+05/05
+I am working on downlad all documents 
+it is in progress.
+
+05/06
+I completed download all documents in meeting level, I can give a demo on monday.
+
+09/05
+
+
+I spent time in configuring CSMT component & analyzing the approach to download protocol document.
+I completed the download all documents and need to do unit testing on document access.
+
+10/05
+
+As Murali suggested yesterday, I posted in teams group mentioning Thanga & Rachna 
+regarding folder structure in download all documents. Thanga replied okay, apparch team may take this task.
+Apart from that I worked on downloading protocol document in DSMB.
+
+11/05
+
+I completed download protocol document and i can give demo.
+
+12/05
+
+I spent time in analyzing the codebase to understand document access & unit testing.
+I completed download protocol document. I can give a demo if time permits.
+
+13/05
+
+I worked on download all documents on agenda level as per Funmi's email.
+I have a quick question. For agenda level, do we need to add downlad all button in view documents pop up?
+
+17/05
+
+Today morning i had a discussion with Jaya regarding 
+impact analysis on upgrading iTextSharp dll. I sent my findings to Jaya.
+Then i removed the BCC from agenda removal notification and spent time on unit testing.
+
+18/05
+
+As Jaya mentioned i re-did the impact analysis on updgrading iTextSharp dll.
+Later spent time on unit testing, found some issues and fixing the same.
+
+19/05
+I fixed the document access related issues in download all documents
+Later I started working on folder structure, i found the solution for creating folder structure.
+
+23/05
+
+I am working on folder structure, I can give demo tomorrow.
+
+24/05
+
+I completed development of folder structure 
+and deployed into integration.
+and i can give a demo.
+
+25/05
+
+I implemented review feedback in folder structure and checked-in the code.
+I will do some more unit testing address code review feedback if any.
+Thats it from my end.
+
+26/05
+
+I modified view document title as per Funmi's mail.
+Addressed code review comments and checked-in the code.
+
+Regarding the issue republish posted by Simon & Deepali,
+I just had a call with Murali. As per discussion I am going to push the 2.6.2 build to INT instead of mixing. 
+So that 2.7 will not be available in INT. 
+
+27/05
+
+I tested the download documents with large size files. ( i used multiple 190 mb files)
+Fixed the bug found and checked in the code. 
+Corrected the document access message & tooltip as Funmi mentioned.  
+
+31/05
+I Fixed the double file extension issue and deployed to integration yesterday.
+then Spent time on upgrading iTextSharp in sharedControls.
+
+01/06
+
+CreatePDF is used in DMIDCRMS.CSM application.
+
+02/06
+
+I updated SDD document and verified download all documents in STM.
+
+03/06
+
+After taking the merged codebase there were some conflict which I resolved.
+Then completed the pending work in resend notification and checked-in the code.
+
+07/06
+
+I tested shared controls upgrade and submitted code for review to Jaya, Murali & Thanga yesterday
+Apart from that, I added warning message in download all documents when all documents are not having access
+as per Funmi's email. I checked-in as part of 2.6.2.
+
+08/06
+Addressed the code review feedback on download all documents. 
+Like Bringing help email id used in warning message from application parameter 
+and added help email as mail to hyper link.
+
+Murali mentioned one code review comment on shared control upgrade which i did not understand, 
+i need to check with him. Simon shown some issues in download all documents and i will work on it.
+
+09/06
+
+I fixed the bugs which simon mentioned yesteday in download documents.
+Deployed into INT.
+I requested Thanga to review shared controls upgrade code which is pending for a while.
+
+10/06
+I corrected the download document error message as mentioned by Funmi & deployed into integration.
+Currently working on Unit test documents.
+
+13/06
+I created the unit testing document for download all documents and uploaded to portal.
+Did a code clean up and checked-in CSMT download protocol document.
+
+14/06
+
+Swathi reported some build issue in CSMT and i corrected the issue and checked-in the code. Later, as jaya mentioned, 
+the exception log fix i moved to 2.6.2 instead of 2.7.
+and Then, I configured VRC CSM component and verified notification module which is impacted by shared controls upgrade.
+It is working fine.  
+
+15/06
+
+I deployed CSMT download protocol document changes to new integration environment.  
+Did a code clean up and checked-in download protocol document of DSMB.
+I need to address if any code review issues.
+
+16/06
+
+I addressed some code review issues and checked in the code.
+
+17/06
+
+Yesterday after the call connected with Simon & Deepali to disuss download protocol issue in csmt.
+I am working on adding download protocol document in visit profile screen of csmt.
+
+
+21/06
+
+I set up the meeting with pre-requisit in STM to run unit test case for Jaya.
+Added download protocol document for visit profile screen
+and handled error when there is no document in CSMT
+and deployed to integration.  I can give a demo.
+
+
+22/06
+
+I fixed the issue in CSMT visit profile download protocol document which simon mentioned yesterday
+ and deployed to integration.
+Codes are checked-in. Thats it.
+
+23/06
+
+I made the changes to document access, where we should not give access to documents 
+when previous COI has no conflict and current COI is in pending submission/review not required.
+I need to confirm the approach with Murali. I can give a demo of whatever is implemented.
+
+
+27/06
+
+I fixed the document access bug & I can give a demo.
+I replied to Thanga's query on iText7 upgrade status in shared controls.
+
+28/06
+I deployed document access changes into new integration & did a round of testing.
+I will discuss the code changes with Murali may be after this call
+
+29/06
+Yesterday after the call I connected with Murali 
+& he explained me various rules involved in document access which was really helpfull.
+As per our discussion.  The new rule that we are applying to restrict access is only for the current meeting.
+Current meeting in the sence. A meeting which is in published status and scheduled start date greater than the current date.
+For previous meeting there is no change in the logic, it works based on the latest review decision of the COI.
+
+I spent time on testing different scenario, it looks good for me.
+Apart from that i addressed some code review items in shared controls and checked-in the code.
+
+06/30
+
+
+
+As Murali mentioned, i took a latest code base and verified the functionalites. 
+Fixed the issue found and checked-in the code and then spent some time on code review.
+Started working on bug fixing.
+
+01/07
+
+Yesterday after the call Murali & I connected. He demoed me the cspell, a command line tool for spell checking.
+I think it is a nice tool for every Front end developer. Thank you Murali for introducing this.
+Today I did a round of tesing on document access change in integration, it looks fine for me. 
+Then I fixed the dialog box issue and deployed into integration, codes are checked-in.
+Then I started working on other bugs assigned to me. 
+
+Hey Murali, Can we use this tool for web form project?
+
+16/08
+Sprint planning meeting.
+
+17/08
+
+I reviewed document access code change and tested in integration environment.
+
+18/08
+I spent time in analyzing the long form coi CR. i would like to hear some technical stuff from Murali.
+
+19/08
+
+I worked on long for coi form CR.
+
+22-08
+
+I am workin on long for coi form CR
+working on ui. it is in progress.
+
+23-8
+
+I worked on long form COI CR.
+I need some clarification. I can ask after update. That is it .
+
+24/08
+
+I am working on long form COI CR. It is in progress. I will add the task.
+
+25/08
+
+Yesterday after the scrum I had a discussion with Murali on some stored procedure.
+Today, I am working on long form coi CR. I completed the stored procedure today.
+tomorrow/monday i can give demo.
+
+30/08
+
+I completed the basic implementation of long form coi cr. I can give a demo
+
+06/09
+
+Worked on long form coi review feedback implementation.
+I want to discuss some technical stuff with Murali, if he is free after this call.
+
+07/09
+Yesterday after the call I had a technical discussion with Murali, He suggested some changes on system intelligence.
+I am working on the same.
+
+Murali I need one clarification.  I am having a meeting on 10 october where i am assigning long form coi to member.
+I have 2 long form coi meeting. 10-sep and 2o-sep. 
+both r having same protocol for eaxample itn50AI. 10-sep coi form filled. Do we need to suggest this protocol.
+
+
+08/09
+Yesterday after the call i had a tecnical discussion with Murali, 
+based on the i am implementing the system intelligence.
+
+09/09
+I am working on long form coi cr. it is in progress.
+
+12/09
+I completed coding for long form coi cr. I am doing unit testing.
+
+13/09
+I am doing unit testing of long form coi cr. I can give demo on latest changes.
+
+14/09
+I am working on long form coi CR, overriding suggestion while submitting long form coi.
+and customized the toggle button for better appearance.
+
+15/09
+I found some bugs during unit testing long form coi.  I fixed those bugs. 
+I will look into email notification related bugs assigned to me tomorrow.
+
+16/09
+
+I analyzed email notification related bug and possible solution; but i could not replicate
+exctly as mentioned in the bug, i need a help from deepali.
+
+114076
+114075
+
+108437 - CR.
+114535
+
+19/09
+Sprint planning meeting. Bug fixing.
+
+20/09
+I applied calendar year check- in the long form coi suggestion/ 
+Need to check with Murali whether it is fine.
+Then I prepared the code for check-in to maintenance branch.
+
+21/09
+
+I merged the code with maintenance branch & spent time on unit testing.
+Murali One Clarification, 
+I am checking whether meeting scheduled start date in current year while providing suggestion. 
+Is that fine?
+
+22/09
+
+As discussed with Murali, I have completed calendar year check 
+and added default protocol during toggle button turn on into study conflict table, 
+so default suggested protocol need not be saved again in protocols popup.
+
+I will add the logic when no long form coi on calendar year.
+
+Protocols included in the previously issued long form COI for the current calendar year are selected by default.
+
+23/09
+
+I made the UI changes suggested by Funmi.
+Written the logic to pull the default protocols when there is
+ no previous long form coi in calendar year. 
+
+26/09
+I completed the coding to pull default protocols when there is no previous long form coi in
+ calendar year.
+
+27/08
+
+I completed the long form coi coding, I can give a demo.
+
+09/28
+
+I checked in the code for long form coi. Looking into agenda removal issue.
+
+30/09
+
+I am working on code review rework and looking into agenda removal issue.
+
+10/04
+
+I analyzed the data regarding the issue mentioned by Deepali,
+Then I spent time on adding alert message on unsaved data.
+
+06/10
+The bug mentioned by deepali related to new member is fixed and deployed to INT.
+I am analyzing the new issue mentioned by Deepali yesterday. It is in progress. thats it from my end.
+
+07/10
+
+I am working on the bug reported by Deepali. Thats it from my end. 
+
+10/10
+Worked on new dsmb member default protocol.
+
+Bugs
+115186
+115013
+115129 - workflow.
+
+10/11
+Based on the Deepali's email. I fixed the default selection issue for new member
+and deployed into integration. I stuck with another technical issue, i will connect with Murali
+after the scrum.
+
+12/10.
+Yesterday after the call, I connected with Murali and had a technical disussion on long form COI CR.
+Today, I made the changes to condider the latest long form coi while protocol selection for new member.
+Updated toggle button. Added unsaved alert message. Displayed record count; 
+deployed into integration.
+
+14/10
+
+Fixed the bug in un-saved change alert message & deployed into integration. 
+Addressed code review issues and checked in the code. Working on Reset button implementation.
+
+17/10
+
+I deployed into integration addressed some Code review issue.
+Implementing newly added
+
+18/10
+
+114076 - Notification bug fixed.
+Implemented default selection for newly added protocol 
+through PM and checked-in the code. 
+Spent time on analyzing email notification bug.
+
+03 Dec 22 : Epsilon, new member
+30 - Dec -22 - Trnasplant DSMB
+
+19/10
+I worked on default selection for newly added protocol, 
+I also had a discussion with Murali regarding code review. thats it from my end.
+
+25/10
+Fixed the bug : Agenda item indicator is missing next to the protocol number on the DSMB member COI form view.
+Fixed the notification bug : Not to send notification for removed member.
+
+26/10
+I worked on code review comments and deployed the change to intigration.
+Today Morning, I Discussed with Murali regarding long form coi collection type update.
+
+27/10
+I worked on collection type update in stored procedures for agenda protocol as Murali mentioned yesterday.
+Deployed the changes to integration.
+
+31/10
+
+I am working on SDD documents.
+
+02/11
+Bug 114075 
+I completed SDD document and uploaded to portal.
+Started anlyzing the bug related to invitee removal.
+
+03/11
+I spent time in analyzing the bug related to invitee removal.
+
+04/11
+I spent time in analyzing the bug related to invitee removal.
+
+07/11
+
+I fixed the bug removed invitee getting added after agenda update. 
+I started working on considering short form coi in individual long form defalut selection.
+
+08/11
+I spent time on unit testing the bug fixes.
+116105
+
+09/11
+I spent time in configuring PM application adding new field in protocol summary report. 
+The new role pharmaceutical specialist was not there in integration & development to test 
+I requested to Funmi to add role. I can test now.
+
+10/11 
+I completed coding of adding pharmceutical role in protocol summary report in PM.
+
+15/11
+116396 - Protocol summary report.
+I spent time in looking into json stringify issue, it looks fine in dsmb.
+I started analysing ritch text implementation.
+
+16/11 Sprint planning
+17/11
+I worked on some POC on rich text implementation--, I can give a demo.
+
+18/11
+I am working on ritch text editor.
+
+21/11
+I tried to have nested bullets in ritch text editor.
+But It is not possible. we can have in only one level.
+So I am not able to move forward with this pbi. 
+
+22/11/
+
+Configured the latest apparch assembly as mentioned by Swathi.
+Gone through protocol authoring component source code to understand aspose library usage.
+Thats it.
+validating other simillar ritch text editor library.
+
+23/11
+I spent time on front end development of ritch text editor.
+
+28/11
+I worked on Ritch text editor. Waiting for data model change.
+Ritch Text Editor : 116300
+
+29/11
+I completed ritch text editor for general agenda item based on data model change sent by Murali. 
+Since most of them are absent I can give a demo tomorrow.
+
+30/11
+
+I made changes to email attachment functionalities to support electronic meeting as 
+discussed with Murali.
+I completed ritch text editor and can give a demo.
+
+The changes you made into DSMB_DAIT_AP_EMAIL_GETNOTIFICATIONTEMPLATE_DS_PRO 
+is causing some issue for multiday meeting. RicipientsEmail coming as null.
+I spent more than 2 hours but could not figure out why. Could you please take a look? 
+Time being reverted your changes in dev.
+
+01/02
+
+Eletronic meeting - 108255
+
+02/12
+I modified the db script for rich text editor and checked-in the code.
+Thats it from my end
+
+05/12
+I checked-in the code for PM - protocol summary report modification
+ & then spent time in code review rework. I did dll versioning as mentioned in team meeting.
+and checked-in the code.
+
+06/12
+I am working on publish & re-publish email template update for electronic meeting.
+
+07/12
+
+I fixed the email attachment issue mentioned by Murali,
+removed time part from publish, republish and cancel meeting to support electronic meeting.
+
+08/12/2022
+I corrected the rich text editor issue as mentioned by Deepali.
+Later I Configured DAIT PM application and gone through the existing codebase to understand.
+
+09/12/2022
+I fixed the bug posted by Deepali/ snapshot was missing. Started working on PM reports.
+
+12/12
+I am working on PM report modification. I need some technical assistance from Jaya.
+PM Report : 116105
+
+12/13
+yesterday After the call i connected with Jaya, he hepled me in some technical stuff.
+I am doing the PM report modification to add pharmceutical specialist.
+
+14/12
+
+I am working on PM report modification. 
+I need some help from Jaya in stored procedure.
+
+15/12
+I completed adding pharmaceutical specialist role CR and  
+& deployed into integration, checked-in the code. I am working on another CR to add branch.
+
+
+--117370 Added associated branch to network/non network report
+
+
+
+20/12
+
+I am working on adding branch in pm report it is in progress.
+
+21/12
+I am working on adding branch in pm report. it is in progress.
+
+22/12
+I completed adding bracnh in pm report and checked-in the code.
+If time permits i can give a demo.
+
+29/12
+
+I am
+Working on email notification template update for electronic meeting.
+
+30/12
+I modified export to excel functionality to support electronic meeting and checked-in the code.
+Working on email notification template update for electronic meeting.
+
+01/03/2023
+I am Working on email notification template update for electronic meeting.
+
+01/04
+
+I am working on email notification template update for electronic meeting.
+
+
+01/05
+
+I made changes to email notification template for electronic meeting.
+I can give a demo.
+
+01/06
+I am working on demo feedback in notification template.
+
+01/09
+I completed email template update for electronic meeting and checked-in the code.
+I will look into bug in rich text editor.
+
+01/10
+
+I worked on the bug in rich text editor for max length validation.
+Tomorrow I am planning to work on db exception in DAIT PM 
+
+Rich Text editor - 117981
+
+01/11
+I spent some time in testing download document issue in dev
+with the prod file provided by deepali, I could not re-produce.
+currently I am analysing the db exception of dait pm.
+
+01/12
+I addressed some code review issues and checked-in the code.
+Created the common function for written review as mentioned by Murali.
+Deepali & Lekha mentioned couple of issues. I will work on the fix.
+
+01/13
+I addressed some code review issue, created custom function to add an article to conduct mode.
+Simon, can u send me the screen that you shown yesterday regarding grammer mistake.
+I am seeing we have used only one place in the template.
+
+01/16
+
+Addressed code review issues.
+
+01/17
+
+I spent time on analysing db exception of DAIT PM
+
+
+01/18
+
+I spent time on analysing db exception of DAIT PM
+I am looking into querystring encrypt exception.
+
+01/20
+I am working on email template update for written review as per deepali's email.
+
+01/23
+I am working on email template update for written review. 
+and I created the new stored procedure for branch filter in DAIT PM as per Kristin's email. 
+I need to confirm with Jaya.  
+
+118772 -  branch filter
+
+01/24
+Yestrday after the call, I reviewed the branch filter stored procedure with Jaya.
+I also completed and checked in notification template update for written review.
+I need to know how branch attributes in master contact UI for unit testing, 
+will connect with Jaya.
+
+01/25
+Yesteday after the call I connected with Jaya, he has shown me how to add new branch in master contact.
+Today I spent time in testing long form COI production issue, i could replicate the issue.
+It is happening when we hit the save button twice. 
+I completed coding for branch filter CR and checked in the code.
+
+01/30
+I addressed the issue in protocol removal notification template mentioned by deepali, 
+checked-in the code and deployed into integration. Worked on special character validation.
+ which I can give a demo.
+
+01/31
+
+I worked on code review issues. Thats it from my end.
+
+02/02
+I am working on dait pm SDD document
+
+03/02
+deployed PM branch filter change into integration.
+I am working on SDD documents. Thats it 
+
+06/02
+
+I worked on SDD document. 
+Later I Spent some time on analyzing rich text editor validation issue as per deepali's mail. 
+I need some help from Murali.
+
+07
+
+I am working on SDD document.
+i also spent time on rich text editor, restricted to 3000 characters/instead of 5000 
+and not displaying character left label
+and checked-in the code.
+
+09/02
+
+I completed updating SDD document. Tomorrow I will work on filename validation with special characters.
+
+10/02
+
+I am working on filename with special characters validation based on application parameter.
+
+13/02
+
+I almost implemented the filename special character validation. 
+But I stuck with one issue which i need some guidance from Murali.
+
+14/02
+Yesterday after the call i connected with Murali on some technical stuff.
+Today I continued working on filename special character validation. 
+Still there is one issue which I would like to discuss with Murali.
+
+15/02
+I executed observer trainee unit test case in STD and it looks fine.
+I was stuck with special character implementation then Murali has implemented.
+I took latest check-in and verified once, it looks good.
+
+17/02
+
+Regarding filename special characters, we are replacing special characters with under score.
+Even other components like SAE tracker does the same thing. I will discuss this with Jaya.
+Apart from that I am testing 0 bytes file upload and validation.
+
+20/02
+I am working on validation of 0 byte files. I need some guidance from Jaya.
+
+22/02
+
+I worked on 0 bytes file validation as discussed with Jaya yesterday.
+
+23/02
+I am working on 0 bytes files validation.
+
+24/02
+I completed the 0 bytes file validation. Working on COI report adding select All option.
+
+27/
+
+I am working on COI report including select all & clear all for scheduled meetings
+I completed the zero byte validation. I can give a demo.
+
+02/03
+
+I am working on exception handling on zero byte file.
+
+03/03
+I completed exception handling in document upload scetion for zero byte. 
+I need to do same thing in dsmb charter section.
+
+06/03
+I completed exception handling in document upload scetion. I can give a quick demo.
+
+07/03
+
+I am working on exception handling in DSMB charter section.
+
+08/03
+
+I am working on exception handling in DSMB charter section.
+
+09/03
+
+I am working on exception handling in charter section.
+
+10/03
+
+I completed the exception handling in charter section.
+
+13/03
+
+I completed exception handling in charter section and working on COI report. Thats it from my end.
+
+14/03
+
+I am working on COI report to add select all options.
+
+17/03
+
+I am working on the approch to export protocol information to PDF.
+I could generate the pdf.
+
+20/03
+I created the sample export to PDF. I can give a demo.
+
+Report
+https://www.youtube.com/watch?v=J_M1WY-gd0A&ab_channel=DigitalTechJoint
+https://stackoverflow.com/questions/40015037/can-vue-router-open-a-link-in-a-new-tab
+DSMB_DAIT_AP_ORG_DSMB_PROTOCOLS_EXPORT_TOEXCEL_GET_DS_PRO
+https://crms.digitalinfuzion.com/CRMS/DAIT-CRIS/_layouts/15/WopiFrame.aspx?sourcedoc=%7B74C012BB-F640-4E84-960B-C273225E10BE%7D&file=DAIT%20Release%20Planning%202023.xlsx&action=default&IsList=1&ListId=%7B74EB617E-626A-40FC-BE8F-968FFB06E294%7D&ListItemId=22611
+
+21/03
+I worked on sample export to PDF which I can give a demo.
+I need some clarification one of the CR assigned to me.
+
+23/03
+I am working generating PDF using RDLC. I generated initial version working on design.
+
+24/03
+
+I am working on designing pdf report using RDLC. I can give demo on monday.
+https://www.youtube.com/watch?v=mc8rz6PDa2o&ab_channel=SyedAli
+
+27/08
+
+I completed generating report using RDLC i can give demo.
+
+28/03
+
+I worked on query string encryption. I did vrccsm approach but stuck with one place.
+Need to check with Jaya.
+
+29/03
+
+I addressed query string encryption issue. Made some design change in the report.
+Looking into repeat header issue.
+
+30/03
+
+I did some r&d on repeat header, people says it is possible only with static table header.
+In our case we do not have static header. 
+Apart from that The CR
+Ability to track documents associated with DSMB members, I need some clarification to start development.
+
+against member.
+Is it meeting parties.
+Is it only for PS.
+version date 
+ 
+03/04
+
+I am working on member document upload.
+
+05/04
+
+I am working on document upload for dsmb member.
+Murali & I had a brief discussion about batch email today morning. I am going to start working on tomorrow.
+
+06/04
+I am working on batch email. I sent some sample emails, 
+but i am not able to receive i think lot of delay. let me know if u guys received any email.
+
+07/04
+I am working on batch email. Created DML script for Job,template and domain.
+Also spent time on unit testing, found 2 issues looks critical need to discuss with Murali. 
+
+10/04
+
+I spent time in unit testing batch email.  Also updating SDD documents.
+
+12/04
+
+I did code merge with duplicate document check checked in by Ezhil. 
+Found a issue during testing and i fixed the issue.
+
+13/04
+
+I spent time in testing duplicate document check. Discussed the issues found with Ezhil.
+
+14/04
+
+I implemented duplicate document check in release form which was missing. 
+Deployed these things into integration.
+
+17/04
+
+I am working on document upload for DSMB member.
+
+19/04
+I worked on pending work in duplicate document check.
+
+20/03
+I worked on member document upload also gone through workflow diagram.
+
+24/04
+
+I was working on stored procedure to notify Branch chief on review pending by MM more than 24 hours.
+
+I also analyzed the COI report issues. It is due to too long query string.
+ I think we may need to limit the user to select like 50 meeting at a time.
+or we may need increse the time out.
+
+The current report can handle only upto 60 meetings. 
+In integration we have around 100 meetings.It shows query string is too long. We need to change the approach of API call.
+
+25/04
+
+I spent some time on stored procedure to notify Branch chief on review pending by MM
+Later spent time on resource permission script to hide document upload. 
+But I need to discuss the rite approach with Jaya.
+
+26/04
+
+I completed the hiding add document for document manager at meeting level.
+Continue working on stored procedure to notify BC.
+
+27/04
+
+I addressed code review comments, updated SDD for document manager CR.
+Also worked on stored procedure to notify BC on pending review by MM
+
+04/05
+
+I am working on the stored procedure to notify BC on review pending by MM.
+The initial work is completed.
+
+05/05
+
+I am working on dashboard pending task logic as per new workflow.
+
+09/05
+
+I implemented the new workflow logic in dashboard by using next reviewer function.
+There is a slight change in the performance after using next reviewer function which I need to discuss with Murali.
+
+11/05
+
+I spent time in verifying dashboard pending task logic and analyzing the performance.
+This morning i had connected with Murali to discuss performance tuning.
+
+12/05
+
+I worked on performance tuning of dashboard procedure as discussed with Murali.
+
+15/05
+
+I worked on dashboard performance, performance looks fine now.
+ I changed other impacted procedures and doing unit testing.
+
+17/05
+
+I spent time on doing unit testing the impacted area due to dashboard related changes.
+
+18/05
+
+I am working on giving warning when study has no medical monitor.
+
+19/05
+
+I am working on providing the warning when there is no level one reviewer.
+
+23/05
+
+I am working on providing the warning when there is no level one reviewer.
+
+24/05
+
+I completed providing the warning when there is no level one reviewer.
+I can give demo tomorrow.
+
+25/05
+
+I completed providing warning when there is no level one reviewer.
+I can give a demo.
+
+26/06
+
+I worked on feedback in providing warning when there is no level one reviewer.
+We need to discuss the approach on providing warning for Long form COI.
+
+05/30
+
+Providing the warning when adding protocol is completed and codes are checked-in.
+I can give a demo on whatever completed for long form COI.
+
+31/05
+
+Providing warning indicator for long form COI and blocking while publish and republish
+is deployed to INT and codes are checked-in.
+
+I need few clarifications regarding archived and withdrawn protocol.
+I thought these protocols are not part of meeting. 
+We dont need warning for withdrawn and archived protocols right?
+
+We need warning indicator in long form coi only for selected protocol rite?
+currently it shows indicator for all protocols.
+
+01/06
+
+I completed implemented providing warning indicator for individual Long form COI.
+and i also removed the blocking when we warned. deployed to INT and codes are checked-in.
+
+05/06
+
+I completed providing warning if there is no medical monitor. I can give a demo.
+
+06/06
+
+I implemented demo feedback in providing the WARNING if there is no MM.
+Codes are checked-in and it will be part of today's build. 
+
+07/06
+Today morning Murali & I had a discussion.and
+did a code changes in real time email. Deployed into integration and did a round of testing.
+
+08/06
+Completed ui issue mentioned by Lekha in finalize meeting and deployed into INT 
+and working on code review rework.
+
+09/06
+Worked on code review rework and applied performance tuning technique in couple of stored procedures.
+
+12/06
+
+I completed NIH security training and spent some time in testing.
+122813
+
+13/06
+
+I spent time on fixing the bug that lekha mentioned in real time email.
+I fixed and deployed to INT. checked-in the code.  Also did a round of testing in INT.
+
+15/06
+
+I spent time in updating SDD. Thats it.
+
+CR 121667.121668 and 122915
+
+tnolen21 - Tracy Nolen, Ph.D.
+pmannon22 - Peter Mannon, M.D.
+dlovell22 - Daniel Lovell, MD, M.P.H.
+jmurray21 - John Murray
+
+20/06
+
+I completed the unit test script and uploaded in portal.  Apart from that
+I dint get proper solution for chopping content in warning box. 
+I need to discuss with Murali to check if he has any solution.
+
+23/06
+
+Yesterday after the call I had connected with Jaya on some technical discussions for the CR.
+To send email notification to safety desk for open report in SAET.
+Based on discussion i am working on the logic to fetch safety desk email addresses.
+
+26/06
+For email notification to safety desk. I am prepping the db information.
+I have written a initial query to fetch CRO safety specialist for a case number, 
+but it is not working for network protocol. I need to check with Jaya. Will connect if he is free after the call.
+
+27/07
+Yesterday after the call I connected with Jaya and we had a discussion about email notification to safety desk.
+As per the discussion I started development activities.
+
+28/08
+I am working on email notification to safety desk in SAE tracker.
+
+03/07
+
+I created the stored procedure to send notification to safety desk in sae tracker
+. I have couple of questions.
+Do we need to run this job everyday?
+As Jaya mentioned earlier, do we need to have some mechanism such as
+send notification only if cases are kept open for certain time period? this may decide based on report status date.
+Currently I considered only individaul occurance cases. Do we need to consider aggregate report as well?
+
+05/07
+
+I am done with the development of batch email to safety desk.
+Code cleanup and check-in is pending
+123232
+122142
+121984
+123515
+123413
+121682
+
+07/06
+
+I am done with the development of batch email to safety desk. I am doing the unit testing.
+I deployed the code into integration. I can give a demo and tune up if there is any change.
+
+07/07
+
+I have gone through the recent update made to notification PBI by Deepali.
+The challenge here is to me is that generate & attaching a file. 
+I have not seen in the source code where we attach the file while sending email from mail queue
+, I dont think existing framework supports.
+I need to discuss with Jaya.
+
+10/07
+
+I replied to Kristin's email with my thoughts for sending email notifications on 
+every 15 days once. Jaya & Murali let me know your thoughts as well.
+
+First approach could be, We can have a data model to capture last email sent date for every cases.
+Based on the last email sent date we can calculate the next reminder day.
+
+Nex approch could be without data model.
+We can do exact match while picking up the cases like 15 days opened, 30 days opened., 45 days so on.
+The drawback here is, Any cases falls between these days 16 to 29 opted out. but it will be included in the next cycle.
+By the time of 15 days it will be stabilized, later all cases will fall in any one these bucket.
+
+11/07
+I have applied the new template in email to safety desk.  
+Added the new column #Days of pending closure.  Deployed into integration.
+
+12/07
+I created the DML script and did code clean up for safety desk email and kept it ready for check-in.
+Later configured the PM application to analyze report which Deepali mentioned.
+
+I have a question, how these grant/contract records populated? Is it through some service/manual entry?
+If I take some award number and i am not seeing proper party pair association in the table
+thats y program officer not showing in "Award Numbers by Study Phase" report.
+
+13/07
+
+I updated the safety desk email based on the mock up sent by Kristin and deployed into integration.
+I am working on the DSMB real time email issue which I discussed with Murali.
+
+14/07
+
+I fixed the DSMB real time email issues and deployed into integration.
+Apart from the I posted in question to kristin & Jaya in teams regarding case count in safety desk email.
+If we have 2 records with same case number and different disposition number.
+Do we need to consider the case count as 1 or 2?
+I need to make a slight adjustment in logic because currently it is counting every record.
+
+17/07
+
+I created the DML script and checked-in the safety desk email source code as well as 
+DSMB real time email bug fix. Murali, to reproduce page unresponsive error in agenda tab, 
+how many document needs to be uploaded. 
+
+
+18/07
+
+I removed to some redundant function call in document upload and tested the impact.
+Also verified the page unresponsive error after the fix. Looking at other bugs assigned to me.
+
+
+124349
+[Window Title]
+Remote Desktop Connection
+
+[Content]
+The remote resource can't be reached. Check your connection and try again or ask your network administrator for help.
+
+[OK] [Help]
+
+[Window Title]
+Remote Desktop Connection
+
+[Content]
+Remote Desktop can't connect to the remote computer "W2K16-OS5" for one of these reasons:
+
+1) Your user account is not authorized to access the RD Gateway "DIFZ-RAS-GW1.digitalinfuzion.com"
+2) Your computer is not authorized to access the RD Gateway "DIFZ-RAS-GW1.digitalinfuzion.com"
+3) You are using an incompatible authentication method (for example, the RD Gateway might be expecting a smart card but you provided a password)
+
+Contact your network administrator for assistance.
+
+[OK] [Help]
+
+19/07
+
+Today morning I connected with Jaya to discuss about pending work in Stop date CR.
+As per the discussion I did the change in the report to include stop date. 
+
+Kristin, do we need to include stop date in disposition form.
+
+Today morning more than 3 hours I could not connect to my machine through RDC. I sent email to service desk
+Is that sufficient or we need to speak to some one?
+
+20/07
+
+I completed the SAET Report to include Stop date, deployed to INT and codes are checked-in
+Updated the safety desk email template to remove grey text and mail link subject.
+
+Spent some time to investigate the reason for Diane Brown not appearing in safety desk email as per Lekha's post.
+The reason is, we are not considering the person who is not having email ID.
+
+AND, I have not faced any connection issue today.
+
+I would like to know where we need to include outcome of event in the report.
+
+24/07
+
+I checked in the code with outcome of event in saet report. And one more pending check-in dsmb.
+Then I started working on SDD document. Deepali,
+ I have taken the SDD document in SAET folder 2.9 version.
+
+26/07
+
+I created the dml script and modified the SAET report to re-order the fields as Deepali mentioned.
+Codes are checked-in. I am working on SDD document.
+
+27/07
+
+I have uploaded the SAET SDD document to the portal, 
+Includes "Email to Safety Desk," "Stop Date," "View Only," and "Disposition Form Regenerated."
+
+28/07
+
+I modified the customize screen as per new feedback, deployed to INT.
+Updated the SDD document. 
+120807 - SAET Work Flow State - Rescind
+'SAE01', 'SAE02'
+
+Daidses.PARTY_CONTEXT_ROLES
+[DAITSAE].[SERIOUS_ADVERSE_EVENT_ROLE_ALLOWED_STATES]
+
+I updated the SDD document with latest modifications and uploaded to portal.
+Checked-in the pending work in SAET and deployed to intigration.
+
+Lekha, Can you show me the bug that i need to fix in CSMT?
+
+124639
+
+96760 - Technical CR.
+124990
+124732
+
+03/08
+
+I fixed the bug in Site Establishment Deviations screen and deployed to INT. 
+Today Morning, I did the the code walkthrough with Jaya and checked-in the code.
+
+07/08
+
+I am working on the performance of SAET Report.
+
+08/08
+I worked on performance of SAET report. Done with whatever possible from my side.
+It improved around 50%. I will check with Pankaj for further improvement once he back from vacation.
+I started working on a bug where missing reviewer alert box is chopping the content.
+
+09/08
+
+I worked on the bug where missing reviewer confirm box chopping the content.
+It was happening only when the brower zoom level is 75 and 80. I did not find the exact solution.
+As an alternative, i am bringing the scroll bar to protocol list when user is in this zoom level.
+
+10/08
+
+I am working on the bug where COI report not generating when all the meating dates are selected.
+So far we can select upto 23 meetings at a time. I am working on alternate approach.
+
+14/08
+
+there is some increasing interest in the Protocol Management functionality that provides the ability to export an XML file that can be imported into ClinicalTrials.gov. If any of you find yourself with downtime/lighter workload, I would appreciate help with:
+
+reviewing the SDD to ensure all of the details are up to date
+reviewing the export and making sure it uploads properly into the test clinicaltrials.gov system
+gap analysis of any fields required by clinicaltrials.gov that are not actually in the XML (hopefully this should not be the case, but should confirm)
+
+121519 - COI Report Bug
+
+16/08
+For missing reviewer warning box chopping the content, I need to connect with Lekha to understand more.
+Apart from that I am reviewing the PM SDD document. 
+I have a question, whether we need to upload xml in clinicalTrial.gov for verifying. 
+Is it it allowing only reistered user or is there any test environment.
+
+17/08
+To fix the bug missing reviwer warning box chopping content. I need some more details from Lekha.
+For SAET CR to replace SAAC with safety desk, i will discuss with Jaya and share some work with him.
+Apart from that I am reviewing PM SDD document. I have question here. After we download XML from PM.
+To verify whether it is correct or not, do we need to upload in clinitrial.dov website.
+
+22/08
+
+Jaya explained me the new task in PM to add pharmacy. I started working on the same.
+But today I am facing some RDC connection issue so I could not make much progress.
+Jaya one question, the add screen should be popup rite.
+
+23/08
+
+I am working on the PM task to add pharmacy.
+
+24/08
+
+I am working on the PM task to add pharmacy.
+
+06/09.
+
+I am working on pharmacy module, I worked on stored procedure to bind values to dropdowns.
+
+I need some help from Jaya to understand some techical stuff, 
+if he is free i can connect after the call.
+
+Shall I check-in the sae tracker report procedure? We made some performance tuning.
+I think we are not getting the error now rite Simon/Lekha.
+
+07/09
+
+Yesterday after the call I had connected with Jaya to discuss some technical stuff.
+Today I worked on stored procedures and UI of pharmacy module.
+
+11/09
+
+In Pharmacy module, I completed the possible development 
+without data model such as UI design validataion and stored procedures.
+As Kristin asked I can give demo on the progress tomorrow since there is some runtime which i need to fix.
+
+12/09
+
+In pharmacy module, I fixed some bug related to validation and completed pending work in stored procedures.
+I thought of giving demo today. Since Kristin is not there i will give it tomorrow.
+Jaya, Is that data model finalized?
+
+14/09
+
+I configured the PM application to pointing to integration database and created the demo data.
+It was refreshed recently. Later I spent time understanding some data structure. 
+Once Kristin is available i can give a demo.
+
+19/09
+
+I dont have any development work, waiting for data model.
+Spent time in understanding existing codebase and data structure.
+I have a question, other day Leckha said, safety desk email fires eventhough we dont have any to addresses.
+Is that good to avoid notification when there is no to address?
+
+20/09
+
+As per Kristin's email I working on the task to include award number in network/non network
+PM Report.
+
+21/09
+
+I am working on the stored procedure to include award numbers for netowrok & non network PM report.
+
+25/09
+
+I completed the CR of including award numbers in network and non network reoprt of PM.
+I can give a demo.
+
+I also created the script to list users of queries in SAE Tracker, sent it to Kristin.
+
+26/09
+I started updating the PM SDD document with the available information .
+I can give a demo on award number changes.
+
+27/09
+I modified the stored procedure to get the latest award number for the protocol.
+and updating the SDD document.
+
+10/03
+
+I done with SDD document update. Completed some pending code review.
+Sent scanned copy of NDA agreement to Sherry.
+And just going through existing code base 
+and created the dml script for adding domain values.
+
+10/04
+Worked on in progress notification
+
+10/05
+
+I am working on sending notification when meeting end date changed during conduct mode in dsmb
+I have a question.
+Is that data model for pharmacy CR is finalized, I think we dont have much time for code freeze.
+
+10/06
+
+I am working on sending notification for inprogress meeting.
+It is almost done, working on some alignment issue in attachment.
+
+10/12
+
+I addressed the code review issues in yesterday's check-in.
+reTested and deployed into integration. Codes r checked-in
+
+16/10
+I am working on a alignment issue in email attachment, 
+for some reason it is not working eventhough i applied style, i need to find the reason.
+Apart from that i dont have any development task.
+
+17/10
+
+I deployed the award number related changes in PM report to integration and did a round of testing.
+To check-in the code, there is no maintenance branch for PM in TFS, I requested Swathi to create the same.
+
+Currently i have considered the latest award number based on application perion end date.
+when protocol associated with multiple award numbers.
+
+18/10
+
+I have written the logic to get award numbers based on activity code and serial number as mentioned by Jaya.
+But this logic does not work when serial number/activity code is null or empty.
+There are few records are not having serial number, activity code 
+and application period end date in integration DB
+So we need to figure what we need to do in these cases.
+
+19/10
+Yesterday after the call, I connected with Jaya to discuss the approach on fetchig award numbers.
+Based on that I made the changes and deployed to intergration. The DB related changes are checked-in
+I need to check-in the application since maintenance branch created few minutes back by Swathi.
+
+20/10
+
+I updated the award number fetching logic and deployed to integration & codes are checked-in.
+Also updated inprogrogrees notification template as mentioned by Lekha.
+For pharmacy CR. I checked-in the code completed so far.
+
+30/10
+
+Today morning I connected with Jaya and discussed the pending work in pharmacy module.
+I am working on pending items.
+I will connect with Jaya again after the scrum to give an update.
+
+31/10
+
+I did a bug fix in customize screen for award number changes and deployed into integration. Checked-in the code.
+I am doing the code review also looking into performance tuning in the procedure as mentioned by Jaya.
+
+02/11
+
+As Jaya mentioned I worked on performance tuning of award number report. 
+I made the changes by introducing temporary table
+instead of inline queries but it takes more time than before. I need to check with Pankaj.
+I also looked at SDD document, i believe it is already updated.
+
+I tried some more options to tuning performance in award number report.
+but there is no significant improvement.
+I told pankaj to take a look. 
+Let me check whether I can pick up some bug item on Monday.
+
+07/11
+I worked on the adhoc report query for SAE Traker as mentioned by Kristin.
+I completed one query but have few questions.
+
+09/11
+I completed the adhoc query, but I am not finding an option to execute query in CRMS management.
+I will work on the bug that Leckha mentioned in document upload validation in dsmb.
+Jaya can u show me, how to execute query in crms management. 126853 128150
+
+14/11
+I fixed one of the bug regarding the document upload screen validation and currently 
+working on Resend notification issue.127475
+
+15/11
+
+I fixed the bug regarding duplicate document upload, I am still working on the inprogrees notification
+related issue.
+
+16/11
+
+I fixed resend notification and duplicate document issue and deployed to INT. 
+I am not able to reproduce two crms support email in BCC.
+ I need some help from Lekha.
+126415
+
+17/11
+
+Daily Scrum Call; Discussed about the bug items with Simon and Lekha in DSMB.
+
+Required field validation in document upload.
+Export to excel file name convention change.
+The resend notification preview is bringing protocol removal notification template.
+Deleting a document and uploading again with the same name is firing the duplicate validation.
+(I thought it is fixed, sti)
+
+Vijay pinged me and asking there is no timesheet entry for bi-weekly meeting.
+I neved used to enter separate timesheet for this. He told me to discuss with u.
+
+17/11
+
+24/11
+
+I analysed and fixed the bug duplicate document message when we delete and upload the same document.
+It took little more time than expected. I promoted to integration.
+Working on the bug regarding notification, but i could not reproduce the issue.
+Please mention the steps to reproduce.
+
+27/11
+
+I fixed the issue with document duplicate validation mentioned by Leckha,
+But I cannot deploy to integration since the whole app folder is not available in integration machine.
+I dont know what happend.
+
+Another issue related to notification where subject line incorrect. After updating end date in
+inprogress meeting, I am sending the notification simillar to publish notification.
+What is the expected subject line and file name, I was not able to access TFS to see the details.
+
+29/11
+
+I could not made any progress today due to VS22 license issue, i could not cofigure csmt & dsmb 
+and just now connected with Matt to resolve the issue, that is solved now.
+so I spent some time in learning Vue3.
+
+30/11
+
+I have configured 3.0 assemblies with Vue3. I need to apply the fix on top of this.
+But I stuck with one issue related to configuration,
+i need some help from Jaya. He only helped earlier i forgot. 
+
+01/12
+After the scrum I connected with jaya on some configuration, thanks jaya for ur help.
+The export to file name issue is fixed and deployed to INT and 
+previous bug fix also merged with Vue3 upgrade. 
+I am still working on another bug in document upload screen 
+when screen is not refresing when we switch the tab.
+
+04/12
+I checked in the code that are completed and working on document upload tab refreshing issue.
+I also configured CSMT for analysis. I also entered the timesheet.
+
+05/12 - Leave.
+06/12 - Leave.
+
+07/12
+
+Fixed the bug in document upload where document selection list not refreshing 
+when we switch tabs. Checked-in the code. I finished my code review.
+I am analyzing the CSMT major deviation screen add button to clear. 
+I need to understand xml and xslt.
+
+08/12
+
+I deployed two bug fix into integration, 
+one is where document slection list not refreshing when we switch tabs
+other one is duplicate document upload issue which I discussed with Murali.
+I started analysing attendance report.
+
+11/12
+
+I checked-in the two bug fixes related to document upload, 
+Started working on attendance report filter screen and SP.
+ 
+Hey Murali one question, In protocol dropdown i brought the studies belongs to meeting. 
+is that correct or we need to bring all protocols and it is a multiselect dropdown.
+bring organization and all protocols.
+Date range all means
+In latest visual studio have u noticed any files are hidden i mean not included in the project.
+
+12/12
+
+In Attendance Report : Created the stored procedure to get protocols with organizations; 
+Created API and data access functions; 
+I have a question to Murali, you told me to bring organization below the protocol,but one study
+has more than one study support organization which one to bring.
+
+I entered timesheet.
+DSMB Check-in meeting. 
+An idiot abroad.
+
+13/12
+
+In Attendance Report : Worked on the filter screen and added mutli-select protcols list.
+Working on adding date controls; DSMB Check-in meeting. I entered timesheet.
+I wanted to confirm one thing from Murali.
+
+14/12
+In Attendance Report : I added date control controls to filter screen, I am fixing some UI issues.
+I entered todays timesheet.
+Murali I need one help on date/time format, can we connect after the call?
+
+15/12
+In Attendance Report : I completed the filter screen and validation 
+and started working on stored procedure.
+
+18/12
+
+In attendance Report : I worked on API and dataaccess 
+
+
+19/12
+
+In attendance Report : Completed stored procedure and working on API. 
+I have one question to Murali, 
+In the filter screen we are selecting start date and end date rite. 
+I am filtering meeting start date between these date range is that correct?
+
+20/12
+
+I almost done with the initial version of attendance report,
+i can give a demo tommorrow.
+
+21/12
+
+I completed the initial version of attendance report, if time permits i can give a demo.
+
+26/12
+
+In Attendance Report : As per mockup and discussion, made the changes in report output.
+Working on adding all option for protocol dropdown.
+
+28/12
+
+In Attendance Report : Added ALL options to protocol dropdown and made some UI correction; 
+Continuing on unit testing; I am writing a some validation logic to 
+restrict individual protocol selction when they choose all options,looks bit tricky for me.
+
+03/01
+I spent time on unit testing the attendance report, i need some clarification.
+
+04/01
+I spent time on unit testing the attendance report, i need some clarification
+pending
+
+Deepali, 
+
+--I am not seeing the attendance report in task board. Is it missed out.
+
+10/01
+
+I completed the attendance report and deployed into integration.
+For tommorrow scrum I am not available since I am going to native 
+and Friday I am going to take leave again.
+
+16/10
+I am working on SDD document for attendance report.
+
+12/12
+I completed some pending code review and spent some time on reading for AI certification which is 
+mandatory in Nous.
+Let me know what task I need to take next
+
+13/02/2024
+
+Could you please do
+analysis
+on creating two person role for DSMB ( Executive Secretary & System Admin) Role, 
+Please refer 2.8 release DSMB Obeserver Trainee role DML script and SP list. 
+
+As Murali suggested i am anaysing to add 2 new roles executive secretary and System Admin.
+For finding the impacted procedure I am searching the procedures by Cntl F. 
+I need to discuss further with Murali.
+
+14/02/2024
+
+As we discussed yesterday, I have created the impact analysis document for adding new role.
+Soon I will send it to team for review.
+
+15/02
+
+I completed impact analysis on adding new role Executive Secretary and System Admin.
+I will send for review.
+
+20/02
+
+I sent impact analysis document to Murali for reiew. I have a question to Murali,
+Earlier you have created the DML script for new roles. Whether it is checked-in as part of DML project
+or it is mainitened separately.
+
+
+
+#983-985, 7th Cross, 24th Main
+
+HSR Layout, 1st Sector,
+
+Bengaluru - 560 102
+
+Tel: +91 80 42603000
+
+Email: info@nousinfo.com
+
+
+21/02
+
+I sent impact analysis document to Murali, I have a question to murali, you have created the script
+to introduce new roles earlier. Those script checked-in part of DML project or kept it separately.
+I am not able to connect to machine since a hours informed to craig he is checking
+
+22/02
+
+I spent time analizing the impact on introducing new roles as discussed yesterday.
+
+28/02
+I spent some time in impact analysis. Later decided to work on the bug raised by Lekha on document upload.
+I stuck in between to reproduce the bug in developement enviroment.
+I am not able to add DSMB charter, I will connect with lekha after the call.
+
+29/02
+Yesterday after the call I connected with Lekha to understand the document upload bug.
+The issue is due to code checked-in by on 14 april last year as part of 2.9.
+
+If this bug is not there in production means it is due to vue3 upgarade. 
+The guid referred from mixing going as null
+
+06/03
+
+I am almost done with dml script for executive secretory.
+For testing, I will run in integration and create a person from Master contact
+and also assign person role from enterprise management.
+I will also send script for review before check-in
+
+07/03
+
+I executed the DML script of role in Integration database. I have created new peron through master contact.
+I tried to login using AA account of kristin to assign roles in CRMS management. After login landing page is nor appearing 
+instead it says. Currently you do not have a role in this application.
+
+08/03
+
+I sent DML script for executive sectetary for review.
+For testing we need to create new user with this role rite?
+
+
+09/03
+I sent DML script for executive sectetary for review i forgot last time
+/ i corrected the role category as Murali mentioned
+For testing i have created brand new person & person roles,but i stuck 
+with create new user for the new person.
+I asked Deepali on friday during meeting, is that pos
+
+13/03
+I am testing the new role executive secretary in integration. It is working as expected so far, i need to change few more procedures and screen.
+One question, As murali said, he may not have permission create meeting. Is it completely read only, means cannot even add documents as well.
+However Deepali already said that she is working. 
+
+14/03
+
+I am testing the executive secretary role,in integration. I made changes in all impacted procedure.
+Now I need to modify the script to remove un-necessary permissions as per mock-up
+
+18/03
+I worked on executive secretary role DML Script. I removed unnecessary permission as per mockup
+But I have couple of questions here. I can share my screen and ask.
+
+19/03
+
+I completed the executive secretary DML script based on initial requirement.
+I need change the impacted screen. Murali are u going to checkin bootsrap upgrade or it takes time.
+
+20/03
+
+I started working on the SP for adhoc report, In executive role Leckha mentioned many points, 
+some of them i need to implement at screen level which i have not done yet.
+
+21/03
+
+In executive secretary role, i made the changes in impacted screen and deployed to integration.
+Few items are pending which i need to test.
+As Jaya suggested I introduced 2 new actions for email view and email resend.
+
+26/03
+
+I completed some basic work on adhoc report, 
+later started working on executive secretary role based on updated PBI.
+
+27/ Leave
+
+28/03
+
+I worked on site personal report filter screen,I have a couple of question.
+Shall i share my screen?
+
+04/04
+
+From afteroon i am not able to connect to difzy machine. I pinged craig, he made some update still it is not working.
+Kristin, I need some clarification, For current status
+
+15/04
+
+131240
+131519
+https://zingnext.zinghr.com/portal
+
+18/04
+I implemented some points mentioned by Deepali and checked in the code.
+Added bulleted listing for clinical research site and Study interventions.
+Added email ID but need to confirm with Murali,
+I need some clarification on last point.
+
+19/4
+I created the function for fetching email and executive,
+and fixed the issues mentioned by Lekha.
+
+
+23/04
+
+I started working SDD document and later i saw email from Deepali,
+
+The changes mentioned in the report is not completed.
+I stuck with the merge feature, here i need to decide dynamically the column to be merged
+since we have provided a function to remove column in output.
+
+I applied the logic it is working but I am getting warning when I open the excel report. I need to check with murali/jaya
+Apart from this. I need one help on unanet. It is asking username and password. I forgot both.
+I dint find any forgot password option. Anyone having any idea.
+
+24/04
+
+Initially i thought we need to merge the cells in excel output, 
+Murali clarified today morning that we need to do in stored procedure for associated organizations, its my bad
+
+I have covered all the points mentioned by Deepali and Lekha in Report.
+Like : Fixed the guidance document upload; merged the associated orgarnizations and corrected the labels
+removed executive secretary fields. Had some chat with Simon.
+
+I will work on sdd tomorrow.
+
+Let me know whether i need to give demo.
+
+29/04
+
+I spent time in fixing the bugs mentioned by Lekha. Later I worked on SDD document.
+I can walkthrough the latest bug fix.
+
+05/02
+
+I made a changes mentioned by Deepali in PM Report. Also addressed the bugs mentioned by Lekha.
+The UI error not fixed and need to be discussed. There was no changes in UI logic as part of 3.0.2
+Completed SDD document and uploaded to portal. Also fixed some pending code review. Codes r checked-in
+
+06/02
+
+I have implemented latest changes mentioned by Deepali in email and checked in on Friday and updated SDD as well. 
+I can give a quick demo.
+The bug in protocol information pop-up where study chairs r not displaying for specific protocol. 
+
+
+I gone through the stored procedure written by Murali, it fetches detail for study conflict. I need
+to discuss with Murali before fixing.
+I configured DSMB for 3.1 release and started looking into executive secretary, I heard Suresh said
+something about role in team meeting. I did not get it, Jaya/Murali do u have any idea.
+
+Murali, One more thing. Simon said u have given a script to testers to create users and personal roles last time.
+Do u have this script with u?
+
+07/05
+
+I have fixed the bug shown by Lekha yesterday, 
+the reason was report output column name and filter screen is not matching.
+I used to plural saying  Clinical Research Sites in report column. Check whether u need to update in OQ and PQ.
+I started working executive secretary.
+
+Jaya, Anitha sent message saying we r moving to new integration database, that means existing database execthey
+will take it off from tomorrow?
+I am continue working on executive security role 
+and I worked on User account creation DML
+
+09/05
+I am still working on Executive secretary role DML script. I have assigned all the organizations
+and resource permission to user but it shows only one DMB. I am investigating the reason.
+
+21/05
+I configured 3.1 assemblies and completed some ground work in executive secretary role.
+User account creation script also completed as requested by Simon.
+I am verifying the implementation against updated requirement.
+
+22/05
+Sorry I joined late.
+In executive secretary role, I am working on screen level permission. It is in progress.
+
+23/05
+
+I am still working on executive secretary role, i covered up to 17 points.
+One quick question Deepali. Whether this role can view cancelled meetings.
+
+24/05
+
+I am still working on executive secretary role, i covered up to 19 points.
+i am working on last point we discussed other day. That is it from my end.
+Hey Jaya, I am not seeing the development database. Do u have any idea, y.  
+
+28/05
+
+I am still working on executive secretary role. Most of the points are covered.
+I have to re-do the database changes & testing due to database refresh.
+
+30/05
+[20:56] Kristin Watson
+Erica Brittain
+I completed executive secretary role implimentation except PM report. I also deployed into integration.
+and Prepared code for check-in. I can give a demo if required.
+
+06/03
+I did code cleanup and checked-in the code for Executive secretary. It will be available in tomorrows build 
+and Converted 4 users mentioned by Kristin into executive secretary.
+Deepali, let me know where I can the requirements for support staff. Do we already have users in this role?
+
+04/06
+Anitha said there was some issues in my last db check-in. I made changes and checked-in. she confirmed that it is working fine now.
+Then, I worked on PM report to include executive secretary and also started script for support staff.
+I need one clarification Deepali & Murali, To display executive secretary for protocol, that person 
+should be part study team members with the role ES.
+
+05/06
+
+I had connected with Murali to discuss the executive secretary fetching logic in PM report.
+I made the changes as per the discussion in stored procedures and I just changed the UI. 
+I will push to integration once it is done.
+
+06/06
+
+I made the executive secretary role related changes in PM report and deployed the code into integration.
+Codes are checked in. Currently working on support staff script.
+I can give a quick demo to check if it is aligned with requirement.
+
+10/06
+
+As Allen identified, when we assigned protocol to person role, no records was displaying.
+I fixed the issue and will check-in the code.
+Also worked on support staff script.
+
+12/06
+
+I completed DB related changes for support staff. Working on UI related changes.
+I need one confirmation from Kristin
+For support staff, When we click on add invitee, support staff should not appear on search rite?
+
+13/06
+
+I have completed the support staff implementation and deployed into integration.
+I am preparing code for check-in
+--Let me know if i need to give a demo.
+
+18/06
+
+I checked-in all the code belongs to support staff so it will be part of today's build.
+Then, As we discussed yesterday, Lekha said there is a mismatch in batch email notification template for branch chief.
+I analyzed the code and tested in integration environment, i did not find any issues. Lekha, please check once in integration.
+
+20/06
+
+I made a mistake while updating person roles for support staff so I gave a script to Anita for data correction in STD and VAL database.
+I updated all the person roles records of Deepali & Kristin  with support staff role without proper where clause.
+It will not be an issue if there is a DB refresh.
+
+Currently, i am working on SDD document for Executive secretary and Support staff.
+
+I think as Jaya Suggested we need to rename "Support Staff" and "Executive Secretary",  to match with the naming convention used by other roles
+"DAIT DSMB Support Staff (DAIT DSMB)"
+"DAIT DSMB Executive Secretary (DAIT DSMB)"
+
+26/06
+
+I renamed the executive secretary and support staff. Checked-in the script.
+Currently I am working on SDD document for executive secretary and support staff.
+Lekha mentioned couple of bugs but i need a walkthrough to understand.
+
+26/06
+
+I am working on bug fixing as per the list mentioned by Lekha.
+The 4th item, Martha Nason not inviting by default is due to division scope, we need to test after editing in master contact.
+Lekha, I am not clear on issue no 9,10 and 11, need your help to understand.
+
+
+27/06
+I fixed the bug number 9,10 and 11 from the Lekha's list, i checked-in the code.
+Bug number 4 where martha nason not adding as default invitee is due to configuration issue.
+The associated organization was not in DAIT scope. I can show how i configured in master contact as lekha requested.
+
+Murali, Can we connect after the scrum on Guidance document issue. looks like some bootstrap issue,
+need some help on this.
+
+01/07
+
+I believe all the bugs are fixed except add recipient bug.
+Lekha, correct me if i am wrong.
+Murali said that he will fix, i think he dint get time. I am working on add recipient bug. 
+
+02/07
+
+I fixed the add recipient issue in guidance document and deployed into INT and not checked-in. 
+It is the vue3 upgrade issue.
+Lekha, please check once in intigration. 
+Support role bugs are fixed and it will be part of today's build.
+
+03/07
+
+As Kristin mentioned in the group chat, I verified the Protocol At Sites report. In the first glance I noticed
+Study Chair is incorrect, Disease/condition is blank in the attached excel file. To fix and analyze further, 
+i am not able to connect to TFS to set up application.
+
+Looks like server is down. 
+In the conflict type CR, I fixed one bug and deployed to integration and analyzed bug number 4, but could not reproduce.
+connecting with Lekha, just before. we did not see the issue.
+
+Jaya, r u facing the TFS issue?
+
+
+04/07
+Agenda Finalized issue has been fixed and available in Integration. removing COI requirement working fine.(for new meeting)
+Lekha posted 4 bugs for ES. 1st one I am still working on. No.5 is fixed and it will be available in next build in STD and VAL.
+No. 8. Also fixed and codes are checked-in
+No. 10 ES have ability to distribute short form. It is fixed, but you have to check for new meeting.
+I also prepared the script for correcting duplicate person role records.
+Guidance document add recipient issue is fixed and is available in integration. 
+In conflict type CR, COI report related issue fixed and checked-in. 
+The default tab selection in COI dashboard issue has been fixed and deployed to INT
+
+
+09/07
+I am not able to reproduce the bug which Lekha mentioned as critical in COI dashboard. (I created the new meeting to test this in integration)
+Lekha mentioned 4 bugs are pending in executive secretary. I thought 3 bugs r fixed in integration, Rekha says 2 are still open, need to check again.
+may be due to refresh. if so it will be fixed in today's build.
+The bug where agenda comments are not displaying properly with lengthy number. It is due to bootstrap upgrade, I did not find the proper fix.
+It may not be critical since user may not enter such a lengthy number in reality. In the apply previous review decision CR, I tried to re-produce 2 bugs,
+include critical bugs.
+but I could not, need to connect with Lekha to understand further.
+
+10/07
+
+As I discussed with Lekha yesterday, there is one bug where Executive secretary sees COI links in pending task dashboard. I fixed today and available in 
+integration. I gone through the conflict type CR, bug number 18 where validation fires where we click on "not specified" and Yes button. 
+It looks OK has it is a behavior of validation framework which we can see in other place as well.
+Bug number 4 - Where show details button show conflict description in the back ground for DP. I am not able reproduce.
+Bug number 11 and 12 the is a clarification, let us wait for Murali. Bug no 14, When we revise the existing meeting whether we need to add template 1.0 or
+2.0? what should be the expected behavior. This is for new invitee.
+Bug no. 16. The conflict description is not hidden by default. Whether this bug is still there?
+Bug no. 17 was already fixed. - UI space.
+I can connect to Lekha to discuss in detail. 
+
+11/07
+Yesterday after scrum call, I connected with Lekha and discussed the fix and closed couple of bugs, another bug may not be a bug.
+I fixed the bug# 14 in conflict CR Where legacy meeting created with old template should carry the old template even if we new invitee
+after publishing. It should carry the same template entire cycle.
+Fix is available in integration please check.
+
+Lekha, the extra space in COI form, we need to correct the new template. I did not find the DML script to checked-in to correct the conflict template.
+I dont know how it is inserted to new conflict template table. Jaya do you have any idea?
+I need to start working on PM report. Lekha let us connect on the open bug
+
+
+15/07
+
+I fixed the bug in Protocol At Sites report of PM and deployed to integration.
+I noticed that there is an issue in Pending Tasks where Executive secretary able to see COI Pending submission link.
+Corrected and deployed to integration.
+As Deepali mentioned, the language in COI form has been corrected and available in integration. Code r checked-in.
+I have not re-deployed support role stored procedure to integration. I will do it.
+
+16/07
+
+As we discussed yesterday I have reverted the fix related to Executive Secretary Pending Tasks.
+Lekha, As per Jaya and Murali, if we enable the COI for Executive secretary we should display the link pending task to fill the form.
+
+I corrected the bug in 
+
+18/09
+
+I am modifying the stored procedure to add default invitee based on the domain configuration.
+It is in progress.
+
+
+19/09
+
+I completed the coding for default invitee, To do unit testing, the agenda finalized step is timing out even before applying my changes. Looks like some db issue, I contacted Anitha, disk space is full it seems and she is
+looking into it. If everything works i can give a demo on Monday.
+
+24/09
+
+I completed default invitee CR and deployed to integration. Since it is not signed and planned for march release.
+I will handover the source code, DML script and documentation tomorrow. Let me know if you need a demo.
+
+
+25/09
+
+I shared the source code, DML Script, stored procedure and documents belongs to default invitee CR
+ and also did some more unit testing, everything looks fine for me.
+
+23/01
+https://www.c-sharpcorner.com/blogs/jwt-authentication-in-asp-net-core-web-api
+
+	
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
