@@ -1,0 +1,16 @@
+https://support.google.com/admob/answer/6168758?hl=en
+https://developers.google.com/admob/android/quick-start
+
+https://docs.flutter.dev/cookbook/plugins/google-mobile-ads
+
+admob app id
+
+ca-app-pub-5777118776876660~4700069354
+
+admob unit id
+
+ca-app-pub-5777118776876660/8567193990
+
+protocoderspoint.com
+https://github.com/googleads/googleads-mobile-flutter/tree/main/samples/admob/banner_example
+https://www.youtube.com/watch?v=5JpOAR-Qjms&list=PLGIDomk5-zo3g7ZlTH9-Vs6JRpQKY51pE&ab_channel=ProtoCodersPoint
