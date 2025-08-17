@@ -1,5 +1,5 @@
-name: admob
-description: "A new Flutter project."
+name: ispent
+description: "iSpent is an app designed to track your day to day expenses and income"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -16,10 +16,10 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.0.0+1
+version: 3.0.22+35
 
 environment:
-  sdk: '>=3.4.3 <4.0.0' 
+  sdk: '>=3.4.3 <4.0.0'
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -30,23 +30,47 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
-  google_mobile_ads: ^5.2.0
-
+  sqflite: ^2.0.2
+  path_provider: ^2.0.9
+  datetime_picker_formfield: ^2.0.0
+  shared_preferences: ^2.0.13
+  pie_chart: ^5.1.0
+  intl: ^0.18.0
+  url_launcher: ^6.1.14
+  syncfusion_flutter_charts: ^26.2.4
 dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  toggle_switch: ^2.3.0
+  jiffy: ^5.0.0
   flutter_test:
     sdk: flutter
+flutter_icons:
+  image_path_android: "images/wallet.png"
+  image_path_ios: "images/wallet.png"
+  android: true
+  ios: true
+  web:
+    generate: true
+    image_path: "images/wallet.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "images/wallet.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "images/wallet.png"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^2.0.0
+  flutter_lints: ^3.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
